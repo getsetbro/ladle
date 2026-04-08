@@ -13,8 +13,7 @@ final class TriviaViewModel: ObservableObject {
 
     private let defaults = UserDefaults.standard
 
-    // Replace this with your real GitHub raw JSON URL.
-    private let triviaURLString = "https://raw.githubusercontent.com/your-org/your-repo/main/today.json"
+    private let triviaBaseURLString = "https://getsetbro.github.io/ladle"
 
     private enum Keys {
         static let totalAnswered = "trivia.totalAnswered"
@@ -92,7 +91,7 @@ final class TriviaViewModel: ObservableObject {
     }
 
     private func fetchQuestion() async {
-        guard let url = URL(string: triviaURLString) else {
+        guard let url = URL(string: "\(triviaBaseURLString)/\(dayOfYearString).json") else {
             errorMessage = "Invalid trivia URL. Update the URL in TriviaViewModel."
             return
         }
@@ -153,4 +152,9 @@ final class TriviaViewModel: ObservableObject {
         formatter.dateFormat = "yyyy-MM-dd"
         return formatter
     }()
+
+    private var dayOfYearString: String {
+        let dayOfYear = Calendar(identifier: .gregorian).ordinality(of: .day, in: .year, for: Date()) ?? 1
+        return String(format: "%03d", dayOfYear)
+    }
 }
