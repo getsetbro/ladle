@@ -34,8 +34,14 @@ struct ContentView: View {
                 }
                 .padding()
             }
-            .navigationTitle("Daily Trivia")
+            .navigationTitle("Todays Ladle")
+            .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("Todays Ladle")
+                        .font(.system(size: 22, weight: .semibold, design: .serif))
+                }
+
                 ToolbarItemGroup(placement: .topBarTrailing) {
                     if viewModel.didAnswerToday {
                         ShareLink(item: viewModel.shareText) {
