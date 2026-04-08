@@ -1,0 +1,6 @@
+{
+  "date": "day-112",
+  "question": "How many Academy Awards did Titanic win?",
+  "choices": ["8", "9", "10", "11"],
+  "correctIndex": 3
+}

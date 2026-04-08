@@ -1,0 +1,6 @@
+{
+  "date": "day-101",
+  "question": "Which movie features the quote I'll be back?",
+  "choices": ["RoboCop", "The Terminator", "Predator", "Die Hard"],
+  "correctIndex": 1
+}

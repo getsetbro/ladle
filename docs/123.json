@@ -1,0 +1,6 @@
+{
+  "date": "day-123",
+  "question": "Who is Elsa's sister in Frozen?",
+  "choices": ["Moana", "Rapunzel", "Anna", "Merida"],
+  "correctIndex": 2
+}

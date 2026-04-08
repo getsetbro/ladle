@@ -1,0 +1,6 @@
+{
+  "date": "day-099",
+  "question": "Who directed the movie Jaws?",
+  "choices": ["George Lucas", "Steven Spielberg", "James Cameron", "Ridley Scott"],
+  "correctIndex": 1
+}
