@@ -1,0 +1,6 @@
+{
+  "date": "day-018",
+  "question": "What is the longest river in the world, according to the most common textbook answer?",
+  "choices": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+  "correctIndex": 1
+}

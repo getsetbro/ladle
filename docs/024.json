@@ -1,0 +1,6 @@
+{
+  "date": "day-024",
+  "question": "What is the hardest natural substance on the Mohs scale?",
+  "choices": ["Quartz", "Diamond", "Topaz", "Corundum"],
+  "correctIndex": 1
+}

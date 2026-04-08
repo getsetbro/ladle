@@ -1,0 +1,6 @@
+{
+  "date": "day-011",
+  "question": "Who painted the Mona Lisa?",
+  "choices": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+  "correctIndex": 2
+}

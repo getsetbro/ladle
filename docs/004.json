@@ -1,0 +1,6 @@
+{
+  "date": "day-004",
+  "question": "What is the capital city of Japan?",
+  "choices": ["Seoul", "Tokyo", "Kyoto", "Osaka"],
+  "correctIndex": 1
+}

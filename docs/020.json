@@ -1,0 +1,6 @@
+{
+  "date": "day-020",
+  "question": "What is the primary language used for iOS app development with SwiftUI?",
+  "choices": ["Objective-C", "Swift", "Kotlin", "Java"],
+  "correctIndex": 1
+}

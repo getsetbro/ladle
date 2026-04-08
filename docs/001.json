@@ -1,0 +1,6 @@
+{
+  "date": "day-001",
+  "question": "What is the largest planet in our solar system?",
+  "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+  "correctIndex": 2
+}

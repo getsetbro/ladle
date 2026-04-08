@@ -1,0 +1,6 @@
+{
+  "date": "day-012",
+  "question": "What is the smallest prime number?",
+  "choices": ["0", "1", "2", "3"],
+  "correctIndex": 2
+}

@@ -1,0 +1,6 @@
+{
+  "date": "day-003",
+  "question": "Who wrote the play 'Romeo and Juliet'?",
+  "choices": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+  "correctIndex": 2
+}

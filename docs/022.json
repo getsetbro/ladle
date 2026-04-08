@@ -1,0 +1,6 @@
+{
+  "date": "day-022",
+  "question": "How many degrees are in a right angle?",
+  "choices": ["45", "90", "180", "360"],
+  "correctIndex": 1
+}

@@ -1,0 +1,6 @@
+{
+  "date": "day-021",
+  "question": "Which planet has the most prominent ring system visible from Earth with a telescope?",
+  "choices": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+  "correctIndex": 1
+}

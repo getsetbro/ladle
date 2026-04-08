@@ -1,0 +1,6 @@
+{
+  "date": "day-002",
+  "question": "Which element has the chemical symbol O?",
+  "choices": ["Gold", "Oxygen", "Osmium", "Iron"],
+  "correctIndex": 1
+}
