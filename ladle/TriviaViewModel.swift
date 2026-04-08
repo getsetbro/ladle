@@ -101,9 +101,21 @@ final class TriviaViewModel: ObservableObject {
 
         do {
             let (data, response) = try await URLSession.shared.data(from: url)
-            guard let httpResponse = response as? HTTPURLResponse,
-                  (200 ... 299).contains(httpResponse.statusCode) else {
-                errorMessage = "Could not load today's question from GitHub."
+            guard let httpResponse = response as? HTTPURLResponse else {
+                question = nil
+                errorMessage = "Unexpected response from the trivia server."
+                return
+            }
+
+            if httpResponse.statusCode == 404 {
+                question = nil
+                errorMessage = "Today's question is not posted yet. Check back later."
+                return
+            }
+
+            guard (200 ... 299).contains(httpResponse.statusCode) else {
+                question = nil
+                errorMessage = "Could not load today's question (HTTP \(httpResponse.statusCode))."
                 return
             }
 
