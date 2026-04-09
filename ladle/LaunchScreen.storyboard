@@ -13,7 +13,7 @@
                     <view key="view" contentMode="scaleToFill" id="LaunchRootView">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ladle" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LaunchTitle">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Q" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LaunchTitle">
                                 <fontDescription key="fontDescription" name="NewYork-Regular" family="New York" pointSize="44"/>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <nil key="highlightedColor"/>

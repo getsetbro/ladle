@@ -38,8 +38,6 @@ struct ContentView: View {
                 }
                 .padding()
             }
-            .navigationTitle("Ladle")
-            .navigationBarTitleDisplayMode(.large)
             .toolbar {
                 ToolbarItemGroup(placement: .topBarTrailing) {
                     ShareLink(item: viewModel.shareText) {

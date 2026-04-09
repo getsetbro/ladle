@@ -42,7 +42,7 @@ final class TriviaViewModel: ObservableObject {
 
     var shareText: String {
         let status = (todaysWasCorrect == true) ? "Correct" : "Incorrect"
-        return "Ladle: \(status) today. Total score: \(scorePercentText) (\(totalCorrect)/\(totalAnswered))."
+        return "Q: \(status) today. Total score: \(scorePercentText) (\(totalCorrect)/\(totalAnswered))."
     }
 
     func load() async {
