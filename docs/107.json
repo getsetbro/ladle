@@ -1,11 +1,11 @@
 {
   "date": "107",
-  "question": "Who directed Get Out (2017)?",
+  "question": "Who directed The Batman (2022)?",
   "choices": [
-    "Robert Eggers",
-    "Jordan Peele",
-    "Ari Aster",
-    "James Wan"
+    "David Fincher",
+    "Matt Reeves",
+    "Christopher Nolan",
+    "Todd Phillips"
   ],
   "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "103",
-  "question": "Who directed Blade Runner 2049 (2017)?",
+  "question": "Who played Amy Dunne in Gone Girl (2014)?",
   "choices": [
-    "Christopher Nolan",
-    "Ridley Scott",
-    "Denis Villeneuve",
-    "Alex Garland"
+    "Rebecca Hall",
+    "Rosamund Pike",
+    "Emily Blunt",
+    "Charlize Theron"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

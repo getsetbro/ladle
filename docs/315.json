@@ -1,11 +1,11 @@
 {
   "date": "315",
-  "question": "Which 2023 film stars Sandra Huller as writer Sandra Voyter?",
+  "question": "Who directed The Departed (2006)?",
   "choices": [
-    "Priscilla",
-    "Past Lives",
-    "Anatomy of a Fall",
-    "May December"
+    "Oliver Stone",
+    "Martin Scorsese",
+    "Michael Mann",
+    "Ridley Scott"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

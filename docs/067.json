@@ -1,11 +1,11 @@
 {
   "date": "067",
-  "question": "Who shot There Will Be Blood (2007) as cinematographer?",
+  "question": "Who directed The Batman (2022)?",
   "choices": [
-    "Hoyte van Hoytema",
-    "Robert Elswit",
-    "Roger Deakins",
-    "Emmanuel Lubezki"
+    "David Fincher",
+    "Matt Reeves",
+    "Christopher Nolan",
+    "Todd Phillips"
   ],
   "correctIndex": 1
 }

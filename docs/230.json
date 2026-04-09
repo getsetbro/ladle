@@ -1,11 +1,11 @@
 {
   "date": "230",
-  "question": "Which 2023 film won the Palme d'Or?",
+  "question": "Which movie features the line I drink your milkshake!?",
   "choices": [
-    "Fallen Leaves",
-    "The Zone of Interest",
-    "Anatomy of a Fall",
-    "Perfect Days"
+    "No Country for Old Men",
+    "Vice",
+    "There Will Be Blood",
+    "The Master"
   ],
   "correctIndex": 2
 }

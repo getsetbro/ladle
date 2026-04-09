@@ -1,11 +1,11 @@
 {
   "date": "268",
-  "question": "Who directed Drive My Car (2021)?",
+  "question": "Who directed The Martian (2015)?",
   "choices": [
-    "Kore-eda Hirokazu",
-    "Ryusuke Hamaguchi",
-    "Takashi Miike",
-    "Naomi Kawase"
+    "Ridley Scott",
+    "Christopher Nolan",
+    "Danny Boyle",
+    "Ron Howard"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

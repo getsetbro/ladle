@@ -1,11 +1,11 @@
 {
   "date": "258",
-  "question": "Who directed In the Mood for Love (2000)?",
+  "question": "Which movie features Daniel Plainview?",
   "choices": [
-    "Hou Hsiao-hsien",
-    "Apichatpong Weerasethakul",
-    "Edward Yang",
-    "Wong Kar-wai"
+    "The Master",
+    "Vice",
+    "No Country for Old Men",
+    "There Will Be Blood"
   ],
   "correctIndex": 3
 }

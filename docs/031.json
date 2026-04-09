@@ -1,11 +1,11 @@
 {
   "date": "031",
-  "question": "Which 2016 film won Best Original Screenplay for Kenneth Lonergan?",
+  "question": "Who directed The Revenant (2015)?",
   "choices": [
-    "La La Land",
-    "Moonlight",
-    "Manchester by the Sea",
-    "Hell or High Water"
+    "Damien Chazelle",
+    "Alejandro G. Inarritu",
+    "Alfonso Cuaron",
+    "Guillermo del Toro"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

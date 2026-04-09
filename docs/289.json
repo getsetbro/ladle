@@ -1,11 +1,11 @@
 {
   "date": "289",
-  "question": "Which 2007 film stars Daniel Day-Lewis as Daniel Plainview?",
+  "question": "Who played Andrew Neiman in Whiplash (2014)?",
   "choices": [
-    "The Assassination of Jesse James",
-    "Michael Clayton",
-    "No Country for Old Men",
-    "There Will Be Blood"
+    "Ansel Elgort",
+    "Logan Lerman",
+    "Austin Butler",
+    "Miles Teller"
   ],
   "correctIndex": 3
 }

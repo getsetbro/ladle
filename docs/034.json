@@ -1,11 +1,11 @@
 {
   "date": "034",
-  "question": "Who directed Portrait of a Lady on Fire (2019)?",
+  "question": "Which movie features a drumming student and Terence Fletcher?",
   "choices": [
-    "Mia Hansen-Love",
-    "Julia Ducournau",
-    "Celine Sciamma",
-    "Claire Denis"
+    "Sound of Metal",
+    "TAR",
+    "Whiplash",
+    "Birdman"
   ],
   "correctIndex": 2
 }

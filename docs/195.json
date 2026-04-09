@@ -1,11 +1,11 @@
 {
   "date": "195",
-  "question": "Who directed In the Mood for Love (2000)?",
+  "question": "Who directed The Departed (2006)?",
   "choices": [
-    "Apichatpong Weerasethakul",
-    "Edward Yang",
-    "Wong Kar-wai",
-    "Hou Hsiao-hsien"
+    "Oliver Stone",
+    "Martin Scorsese",
+    "Michael Mann",
+    "Ridley Scott"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

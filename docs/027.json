@@ -1,11 +1,11 @@
 {
   "date": "027",
-  "question": "Which 2019 film stars Adam Sandler as Howard Ratner?",
+  "question": "Who directed The Batman (2022)?",
   "choices": [
-    "Punch-Drunk Love",
-    "The Meyerowitz Stories",
-    "Uncut Gems",
-    "Good Time"
+    "David Fincher",
+    "Matt Reeves",
+    "Christopher Nolan",
+    "Todd Phillips"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

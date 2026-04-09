@@ -1,11 +1,11 @@
 {
   "date": "029",
-  "question": "Which film won Best International Feature at the 2022 Oscars?",
+  "question": "Who played Jordan in Nope (2022) as OJ Haywood?",
   "choices": [
-    "The Hand of God",
-    "Drive My Car",
-    "The Worst Person in the World",
-    "Flee"
+    "Daniel Kaluuya",
+    "Lakeith Stanfield",
+    "Michael B. Jordan",
+    "John Boyega"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

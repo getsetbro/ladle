@@ -1,11 +1,11 @@
 {
   "date": "302",
-  "question": "Who directed Heat (1995)?",
+  "question": "Which movie stars Ryan Gosling as a Hollywood stuntman in 2024?",
   "choices": [
-    "Brian De Palma",
-    "Kathryn Bigelow",
-    "Michael Mann",
-    "Tony Scott"
+    "Bullet Train",
+    "Once Upon a Time in Hollywood",
+    "The Fall Guy",
+    "Drive"
   ],
   "correctIndex": 2
 }

@@ -1,11 +1,11 @@
 {
   "date": "045",
-  "question": "Which 2018 film directed by Lee Chang-dong stars Steven Yeun as Ben?",
+  "question": "Who composed the score for Interstellar (2014)?",
   "choices": [
-    "Parasite",
-    "Decision to Leave",
-    "Broker",
-    "Burning"
+    "John Williams",
+    "Trent Reznor",
+    "Alexandre Desplat",
+    "Hans Zimmer"
   ],
   "correctIndex": 3
 }

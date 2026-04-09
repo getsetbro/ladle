@@ -1,11 +1,11 @@
 {
   "date": "223",
-  "question": "Who directed Portrait of a Lady on Fire (2019)?",
+  "question": "Who played Amy Dunne in Gone Girl (2014)?",
   "choices": [
-    "Julia Ducournau",
-    "Celine Sciamma",
-    "Claire Denis",
-    "Mia Hansen-Love"
+    "Rebecca Hall",
+    "Rosamund Pike",
+    "Emily Blunt",
+    "Charlize Theron"
   ],
   "correctIndex": 1
 }

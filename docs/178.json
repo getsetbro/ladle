@@ -1,11 +1,11 @@
 {
   "date": "178",
-  "question": "Who directed The Grand Budapest Hotel (2014)?",
+  "question": "Which movie features Daniel Plainview?",
   "choices": [
-    "Yorgos Lanthimos",
-    "Taika Waititi",
-    "Wes Anderson",
-    "Noah Baumbach"
+    "The Master",
+    "Vice",
+    "No Country for Old Men",
+    "There Will Be Blood"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

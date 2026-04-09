@@ -1,11 +1,11 @@
 {
   "date": "009",
-  "question": "Who directed The Handmaiden (2016)?",
+  "question": "Who played Andrew Neiman in Whiplash (2014)?",
   "choices": [
-    "Park Chan-wook",
-    "Kim Ki-duk",
-    "Hong Sang-soo",
-    "Bong Joon-ho"
+    "Ansel Elgort",
+    "Logan Lerman",
+    "Austin Butler",
+    "Miles Teller"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "200",
-  "question": "Who directed Zodiac (2007)?",
+  "question": "Which film won Best Picture at the Oscars for 2023?",
   "choices": [
-    "David Fincher",
-    "Michael Mann",
-    "Denis Villeneuve",
-    "Steven Soderbergh"
+    "Everything Everywhere All at Once",
+    "Top Gun: Maverick",
+    "The Fabelmans",
+    "Elvis"
   ],
   "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "345",
-  "question": "Who directed Gone Girl (2014)?",
+  "question": "Who directed Arrival (2016)?",
   "choices": [
-    "Ben Affleck",
-    "Denis Villeneuve",
-    "Todd Phillips",
-    "David Fincher"
+    "Alex Garland",
+    "Christopher Nolan",
+    "Ridley Scott",
+    "Denis Villeneuve"
   ],
   "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "229",
-  "question": "Who directed Blade Runner 2049 (2017)?",
+  "question": "Who played Jordan in Nope (2022) as OJ Haywood?",
   "choices": [
-    "Denis Villeneuve",
-    "Alex Garland",
-    "Christopher Nolan",
-    "Ridley Scott"
+    "Daniel Kaluuya",
+    "Lakeith Stanfield",
+    "Michael B. Jordan",
+    "John Boyega"
   ],
   "correctIndex": 0
 }

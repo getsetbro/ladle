@@ -1,11 +1,11 @@
 {
   "date": "008",
-  "question": "Who composed the score for Oppenheimer (2023)?",
+  "question": "Who directed The Martian (2015)?",
   "choices": [
-    "Hans Zimmer",
-    "Ludwig Goransson",
-    "Hildur Gudnadottir",
-    "Nicholas Britell"
+    "Ridley Scott",
+    "Christopher Nolan",
+    "Danny Boyle",
+    "Ron Howard"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

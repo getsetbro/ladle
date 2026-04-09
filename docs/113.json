@@ -1,11 +1,11 @@
 {
   "date": "113",
-  "question": "Who directed Heat (1995)?",
+  "question": "Who played the lead role in Joker (2019)?",
   "choices": [
-    "Tony Scott",
-    "Brian De Palma",
-    "Kathryn Bigelow",
-    "Michael Mann"
+    "Jared Leto",
+    "Barry Keoghan",
+    "Paul Dano",
+    "Joaquin Phoenix"
   ],
   "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "073",
-  "question": "Which film won Best Picture at the 2017 Oscars?",
+  "question": "Who played the lead role in Joker (2019)?",
   "choices": [
-    "Moonlight",
-    "Arrival",
-    "Manchester by the Sea",
-    "La La Land"
+    "Jared Leto",
+    "Barry Keoghan",
+    "Paul Dano",
+    "Joaquin Phoenix"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

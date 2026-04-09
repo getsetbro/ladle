@@ -1,11 +1,11 @@
 {
   "date": "311",
-  "question": "Which 2015 film won Best Cinematography for Emmanuel Lubezki?",
+  "question": "Who directed The Revenant (2015)?",
   "choices": [
-    "Carol",
-    "Birdman",
-    "The Revenant",
-    "Sicario"
+    "Damien Chazelle",
+    "Alejandro G. Inarritu",
+    "Alfonso Cuaron",
+    "Guillermo del Toro"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

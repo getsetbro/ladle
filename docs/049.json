@@ -1,11 +1,11 @@
 {
   "date": "049",
-  "question": "Which 2021 film stars Renate Reinsve as Julie?",
+  "question": "Who played Andrew Neiman in Whiplash (2014)?",
   "choices": [
-    "Compartment No. 6",
-    "The Worst Person in the World",
-    "Petite Maman",
-    "The Souvenir Part II"
+    "Ansel Elgort",
+    "Logan Lerman",
+    "Austin Butler",
+    "Miles Teller"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

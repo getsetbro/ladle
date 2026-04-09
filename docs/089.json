@@ -1,11 +1,11 @@
 {
   "date": "089",
-  "question": "Who directed Whiplash (2014)?",
+  "question": "Who played Andrew Neiman in Whiplash (2014)?",
   "choices": [
-    "Derek Cianfrance",
-    "Sam Mendes",
-    "Richard Linklater",
-    "Damien Chazelle"
+    "Ansel Elgort",
+    "Logan Lerman",
+    "Austin Butler",
+    "Miles Teller"
   ],
   "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "074",
-  "question": "Who directed Zodiac (2007)?",
+  "question": "Which movie features a drumming student and Terence Fletcher?",
   "choices": [
-    "Denis Villeneuve",
-    "Steven Soderbergh",
-    "David Fincher",
-    "Michael Mann"
+    "Sound of Metal",
+    "TAR",
+    "Whiplash",
+    "Birdman"
   ],
   "correctIndex": 2
 }

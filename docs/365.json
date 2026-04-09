@@ -1,11 +1,11 @@
 {
   "date": "365",
-  "question": "Who directed Heat (1995)?",
+  "question": "Who composed the score for Interstellar (2014)?",
   "choices": [
-    "Tony Scott",
-    "Brian De Palma",
-    "Kathryn Bigelow",
-    "Michael Mann"
+    "John Williams",
+    "Trent Reznor",
+    "Alexandre Desplat",
+    "Hans Zimmer"
   ],
   "correctIndex": 3
 }

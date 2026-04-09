@@ -1,11 +1,11 @@
 {
   "date": "017",
-  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
+  "question": "Who directed La La Land (2016)?",
   "choices": [
-    "Everything Everywhere All at Once",
-    "All Quiet on the Western Front",
-    "TAR",
-    "The Banshees of Inisherin"
+    "Baz Luhrmann",
+    "Tom Hooper",
+    "Sam Mendes",
+    "Damien Chazelle"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

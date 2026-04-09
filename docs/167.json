@@ -1,11 +1,11 @@
 {
   "date": "167",
-  "question": "Which 2023 film won the Palme d'Or?",
+  "question": "Who directed The Social Network (2010)?",
   "choices": [
-    "The Zone of Interest",
-    "Anatomy of a Fall",
-    "Perfect Days",
-    "Fallen Leaves"
+    "Bennett Miller",
+    "David Fincher",
+    "Danny Boyle",
+    "Aaron Sorkin"
   ],
   "correctIndex": 1
 }

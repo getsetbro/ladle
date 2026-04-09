@@ -1,11 +1,11 @@
 {
   "date": "145",
-  "question": "Which film won Best Director for Bong Joon-ho?",
+  "question": "Who directed Arrival (2016)?",
   "choices": [
-    "Parasite",
-    "Mother",
-    "The Host",
-    "Memories of Murder"
+    "Alex Garland",
+    "Christopher Nolan",
+    "Ridley Scott",
+    "Denis Villeneuve"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

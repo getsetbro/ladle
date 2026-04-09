@@ -1,11 +1,11 @@
 {
   "date": "006",
-  "question": "Who directed In the Mood for Love (2000)?",
+  "question": "Which film features the line Why so serious??",
   "choices": [
-    "Hou Hsiao-hsien",
-    "Apichatpong Weerasethakul",
-    "Edward Yang",
-    "Wong Kar-wai"
+    "Batman Begins",
+    "The Batman",
+    "The Dark Knight",
+    "Joker"
   ],
-  "correctIndex": 3
+  "correctIndex": 2
 }

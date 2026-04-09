@@ -1,11 +1,11 @@
 {
   "date": "319",
-  "question": "Who shot There Will Be Blood (2007) as cinematographer?",
+  "question": "Who directed Dune (2021)?",
   "choices": [
-    "Hoyte van Hoytema",
-    "Robert Elswit",
-    "Roger Deakins",
-    "Emmanuel Lubezki"
+    "George Miller",
+    "Denis Villeneuve",
+    "Ridley Scott",
+    "Christopher Nolan"
   ],
   "correctIndex": 1
 }

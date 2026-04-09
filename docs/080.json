@@ -1,11 +1,11 @@
 {
   "date": "080",
-  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
+  "question": "Which film won Best Picture at the Oscars for 2023?",
   "choices": [
-    "The Banshees of Inisherin",
     "Everything Everywhere All at Once",
-    "All Quiet on the Western Front",
-    "TAR"
+    "Top Gun: Maverick",
+    "The Fabelmans",
+    "Elvis"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "234",
-  "question": "Which 2018 film directed by Lee Chang-dong stars Steven Yeun as Ben?",
+  "question": "Which movie features a drumming student and Terence Fletcher?",
   "choices": [
-    "Decision to Leave",
-    "Broker",
-    "Burning",
-    "Parasite"
+    "Sound of Metal",
+    "TAR",
+    "Whiplash",
+    "Birdman"
   ],
   "correctIndex": 2
 }

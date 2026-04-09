@@ -1,11 +1,11 @@
 {
   "date": "274",
-  "question": "Who directed A Separation (2011)?",
+  "question": "Which movie features a drumming student and Terence Fletcher?",
   "choices": [
-    "Abbas Kiarostami",
-    "Jafar Panahi",
-    "Asghar Farhadi",
-    "Majid Majidi"
+    "Sound of Metal",
+    "TAR",
+    "Whiplash",
+    "Birdman"
   ],
   "correctIndex": 2
 }

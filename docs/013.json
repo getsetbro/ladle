@@ -1,11 +1,11 @@
 {
   "date": "013",
-  "question": "Who directed Phantom Thread (2017)?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Todd Haynes",
-    "Luca Guadagnino",
-    "Noah Baumbach",
-    "Paul Thomas Anderson"
+    "Ben Affleck",
+    "Todd Phillips",
+    "Denis Villeneuve",
+    "David Fincher"
   ],
   "correctIndex": 3
 }

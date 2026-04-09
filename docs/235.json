@@ -1,11 +1,11 @@
 {
   "date": "235",
-  "question": "Who directed The Master (2012)?",
+  "question": "Who directed The Departed (2006)?",
   "choices": [
-    "Bennett Miller",
-    "Paul Thomas Anderson",
-    "David O. Russell",
-    "Todd Haynes"
+    "Oliver Stone",
+    "Martin Scorsese",
+    "Michael Mann",
+    "Ridley Scott"
   ],
   "correctIndex": 1
 }

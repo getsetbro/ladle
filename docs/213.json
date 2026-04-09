@@ -1,11 +1,11 @@
 {
   "date": "213",
-  "question": "Who directed Sicario (2015)?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Taylor Sheridan",
-    "Antoine Fuqua",
-    "Chad Stahelski",
-    "Denis Villeneuve"
+    "Ben Affleck",
+    "Todd Phillips",
+    "Denis Villeneuve",
+    "David Fincher"
   ],
   "correctIndex": 3
 }

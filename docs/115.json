@@ -1,11 +1,11 @@
 {
   "date": "115",
-  "question": "Who directed The Grand Budapest Hotel (2014)?",
+  "question": "Who directed The Departed (2006)?",
   "choices": [
-    "Taika Waititi",
-    "Wes Anderson",
-    "Noah Baumbach",
-    "Yorgos Lanthimos"
+    "Oliver Stone",
+    "Martin Scorsese",
+    "Michael Mann",
+    "Ridley Scott"
   ],
   "correctIndex": 1
 }

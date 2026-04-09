@@ -1,11 +1,11 @@
 {
   "date": "301",
-  "question": "Which 2021 film stars Renate Reinsve as Julie?",
+  "question": "Who directed Sicario (2015)?",
   "choices": [
-    "Compartment No. 6",
-    "The Worst Person in the World",
-    "Petite Maman",
-    "The Souvenir Part II"
+    "Taylor Sheridan",
+    "Antoine Fuqua",
+    "Chad Stahelski",
+    "Denis Villeneuve"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

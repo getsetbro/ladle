@@ -1,11 +1,11 @@
 {
   "date": "096",
-  "question": "Which movie won Best Picture at the 2016 Oscars ceremony?",
+  "question": "Which film won Best Picture at the Oscars for 2022?",
   "choices": [
-    "The Revenant",
-    "Spotlight",
-    "Mad Max: Fury Road",
-    "The Big Short"
+    "Dune",
+    "CODA",
+    "Belfast",
+    "The Power of the Dog"
   ],
   "correctIndex": 1
 }

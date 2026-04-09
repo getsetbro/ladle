@@ -1,11 +1,11 @@
 {
   "date": "052",
-  "question": "Who directed The Grand Budapest Hotel (2014)?",
+  "question": "Which film won Best Picture at the Oscars for 2016?",
   "choices": [
-    "Wes Anderson",
-    "Noah Baumbach",
-    "Yorgos Lanthimos",
-    "Taika Waititi"
+    "Spotlight",
+    "The Revenant",
+    "Mad Max: Fury Road",
+    "The Big Short"
   ],
   "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "130",
-  "question": "Who shot There Will Be Blood (2007) as cinematographer?",
+  "question": "Which movie stars Christian Bale as Batman in 2008?",
   "choices": [
-    "Emmanuel Lubezki",
-    "Hoyte van Hoytema",
-    "Robert Elswit",
-    "Roger Deakins"
+    "The Dark Knight Rises",
+    "Justice League",
+    "Batman Begins",
+    "The Dark Knight"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

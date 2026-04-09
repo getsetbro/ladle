@@ -1,11 +1,11 @@
 {
   "date": "075",
-  "question": "Which 2018 film won the Palme d'Or at Cannes?",
+  "question": "Who directed The Departed (2006)?",
   "choices": [
-    "Titane",
-    "Burning",
-    "Roma",
-    "Shoplifters"
+    "Oliver Stone",
+    "Martin Scorsese",
+    "Michael Mann",
+    "Ridley Scott"
   ],
-  "correctIndex": 3
+  "correctIndex": 1
 }

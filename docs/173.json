@@ -1,11 +1,11 @@
 {
   "date": "173",
-  "question": "Which film won Best Picture at the 2005 Oscars ceremony?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Million Dollar Baby",
-    "Sideways",
-    "Ray",
-    "The Aviator"
+    "Ben Affleck",
+    "Todd Phillips",
+    "Denis Villeneuve",
+    "David Fincher"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

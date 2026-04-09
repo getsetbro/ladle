@@ -1,11 +1,11 @@
 {
   "date": "256",
-  "question": "Who shot There Will Be Blood (2007) as cinematographer?",
+  "question": "Which film won Best Picture at the Oscars for 2022?",
   "choices": [
-    "Robert Elswit",
-    "Roger Deakins",
-    "Emmanuel Lubezki",
-    "Hoyte van Hoytema"
+    "Dune",
+    "CODA",
+    "Belfast",
+    "The Power of the Dog"
   ],
-  "correctIndex": 0
+  "correctIndex": 1
 }

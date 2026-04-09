@@ -1,11 +1,11 @@
 {
   "date": "239",
-  "question": "Who directed Heat (1995)?",
+  "question": "Who directed Dune (2021)?",
   "choices": [
-    "Kathryn Bigelow",
-    "Michael Mann",
-    "Tony Scott",
-    "Brian De Palma"
+    "George Miller",
+    "Denis Villeneuve",
+    "Ridley Scott",
+    "Christopher Nolan"
   ],
   "correctIndex": 1
 }

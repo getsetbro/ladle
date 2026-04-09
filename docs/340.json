@@ -1,11 +1,11 @@
 {
   "date": "340",
-  "question": "Which film won Best Picture at the 2010 Oscars ceremony?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "Avatar",
-    "The Hurt Locker",
-    "Inglourious Basterds",
-    "Up in the Air"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

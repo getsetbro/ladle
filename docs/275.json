@@ -1,11 +1,11 @@
 {
   "date": "275",
-  "question": "Which Korean film features the character Oh Dae-su?",
+  "question": "Who directed The Departed (2006)?",
   "choices": [
-    "The Handmaiden",
-    "Burning",
-    "Parasite",
-    "Oldboy"
+    "Oliver Stone",
+    "Martin Scorsese",
+    "Michael Mann",
+    "Ridley Scott"
   ],
-  "correctIndex": 3
+  "correctIndex": 1
 }

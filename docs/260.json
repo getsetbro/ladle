@@ -1,11 +1,11 @@
 {
   "date": "260",
-  "question": "Who composed the score for Oppenheimer (2023)?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "Hans Zimmer",
-    "Ludwig Goransson",
-    "Hildur Gudnadottir",
-    "Nicholas Britell"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

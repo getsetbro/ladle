@@ -1,11 +1,11 @@
 {
   "date": "153",
-  "question": "Which 2019 film stars Adam Sandler as Howard Ratner?",
+  "question": "Who played the lead role in Joker (2019)?",
   "choices": [
-    "Uncut Gems",
-    "Good Time",
-    "Punch-Drunk Love",
-    "The Meyerowitz Stories"
+    "Jared Leto",
+    "Barry Keoghan",
+    "Paul Dano",
+    "Joaquin Phoenix"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

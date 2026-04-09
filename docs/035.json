@@ -1,11 +1,11 @@
 {
   "date": "035",
-  "question": "Which film won the Palme d'Or in 2021?",
+  "question": "Who directed The Departed (2006)?",
   "choices": [
-    "A Hero",
-    "Drive My Car",
-    "Titane",
-    "Compartment No. 6"
+    "Oliver Stone",
+    "Martin Scorsese",
+    "Michael Mann",
+    "Ridley Scott"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

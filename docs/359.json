@@ -1,11 +1,11 @@
 {
   "date": "359",
-  "question": "Who directed Get Out (2017)?",
+  "question": "Who directed Dune (2021)?",
   "choices": [
-    "Robert Eggers",
-    "Jordan Peele",
-    "Ari Aster",
-    "James Wan"
+    "George Miller",
+    "Denis Villeneuve",
+    "Ridley Scott",
+    "Christopher Nolan"
   ],
   "correctIndex": 1
 }

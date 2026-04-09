@@ -1,11 +1,11 @@
 {
   "date": "019",
-  "question": "Which film won Best Director for Bong Joon-ho?",
+  "question": "Who directed The Grand Budapest Hotel (2014)?",
   "choices": [
-    "The Host",
-    "Memories of Murder",
-    "Parasite",
-    "Mother"
+    "Yorgos Lanthimos",
+    "Wes Anderson",
+    "Noah Baumbach",
+    "Taika Waititi"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

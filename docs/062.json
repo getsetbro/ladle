@@ -1,11 +1,11 @@
 {
   "date": "062",
-  "question": "Who directed Eternal Sunshine of the Spotless Mind (2004)?",
+  "question": "Which movie stars Ryan Gosling as a Hollywood stuntman in 2024?",
   "choices": [
-    "Spike Jonze",
-    "David O. Russell",
-    "Michel Gondry",
-    "Charlie Kaufman"
+    "Bullet Train",
+    "Once Upon a Time in Hollywood",
+    "The Fall Guy",
+    "Drive"
   ],
   "correctIndex": 2
 }

@@ -1,11 +1,11 @@
 {
   "date": "040",
-  "question": "Who directed Blade Runner 2049 (2017)?",
+  "question": "Which film won Best Picture at the Oscars for 2023?",
   "choices": [
-    "Ridley Scott",
-    "Denis Villeneuve",
-    "Alex Garland",
-    "Christopher Nolan"
+    "Everything Everywhere All at Once",
+    "Top Gun: Maverick",
+    "The Fabelmans",
+    "Elvis"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "323",
-  "question": "Who composed the score for Oppenheimer (2023)?",
+  "question": "Who played Jordan Belfort in The Wolf of Wall Street (2013)?",
   "choices": [
-    "Nicholas Britell",
-    "Hans Zimmer",
-    "Ludwig Goransson",
-    "Hildur Gudnadottir"
+    "Ryan Gosling",
+    "Christian Bale",
+    "Leonardo DiCaprio",
+    "Matt Damon"
   ],
   "correctIndex": 2
 }

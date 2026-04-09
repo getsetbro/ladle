@@ -1,11 +1,11 @@
 {
   "date": "016",
-  "question": "Who directed Drive My Car (2021)?",
+  "question": "Which film won Best Picture at the Oscars for 2022?",
   "choices": [
-    "Kore-eda Hirokazu",
-    "Ryusuke Hamaguchi",
-    "Takashi Miike",
-    "Naomi Kawase"
+    "Dune",
+    "CODA",
+    "Belfast",
+    "The Power of the Dog"
   ],
   "correctIndex": 1
 }

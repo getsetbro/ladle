@@ -1,11 +1,11 @@
 {
   "date": "198",
-  "question": "Who directed The Handmaiden (2016)?",
+  "question": "Which movie follows Louise Banks decoding alien language?",
   "choices": [
-    "Kim Ki-duk",
-    "Hong Sang-soo",
-    "Bong Joon-ho",
-    "Park Chan-wook"
+    "Interstellar",
+    "Contact",
+    "Annihilation",
+    "Arrival"
   ],
   "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "007",
-  "question": "Which film won Best Picture at the 2020 Oscars ceremony?",
+  "question": "Who directed The Social Network (2010)?",
   "choices": [
-    "Ford v Ferrari",
-    "1917",
-    "Parasite",
-    "Joker"
+    "Bennett Miller",
+    "David Fincher",
+    "Danny Boyle",
+    "Aaron Sorkin"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "140",
-  "question": "Who plays Lydia Tar in TAR (2022)?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "Cate Blanchett",
-    "Julianne Moore",
-    "Tilda Swinton",
-    "Olivia Colman"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
   "correctIndex": 0
 }

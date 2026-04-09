@@ -1,11 +1,11 @@
 {
   "date": "265",
-  "question": "Who directed Phantom Thread (2017)?",
+  "question": "Who directed Arrival (2016)?",
   "choices": [
-    "Todd Haynes",
-    "Luca Guadagnino",
-    "Noah Baumbach",
-    "Paul Thomas Anderson"
+    "Alex Garland",
+    "Christopher Nolan",
+    "Ridley Scott",
+    "Denis Villeneuve"
   ],
   "correctIndex": 3
 }

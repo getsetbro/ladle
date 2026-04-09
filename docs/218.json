@@ -1,11 +1,11 @@
 {
   "date": "218",
-  "question": "Which film won Best International Feature at the 2022 Oscars?",
+  "question": "Which movie features Daniel Plainview?",
   "choices": [
-    "Drive My Car",
-    "The Worst Person in the World",
-    "Flee",
-    "The Hand of God"
+    "The Master",
+    "Vice",
+    "No Country for Old Men",
+    "There Will Be Blood"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

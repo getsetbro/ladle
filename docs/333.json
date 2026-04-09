@@ -1,10 +1,10 @@
 {
   "date": "333",
-  "question": "Who directed The Social Network (2010)?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Danny Boyle",
-    "Aaron Sorkin",
-    "Bennett Miller",
+    "Ben Affleck",
+    "Todd Phillips",
+    "Denis Villeneuve",
     "David Fincher"
   ],
   "correctIndex": 3

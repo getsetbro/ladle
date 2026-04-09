@@ -1,11 +1,11 @@
 {
   "date": "063",
-  "question": "Which 2023 film stars Sandra Huller as writer Sandra Voyter?",
+  "question": "Who played Amy Dunne in Gone Girl (2014)?",
   "choices": [
-    "Priscilla",
-    "Past Lives",
-    "Anatomy of a Fall",
-    "May December"
+    "Rebecca Hall",
+    "Rosamund Pike",
+    "Emily Blunt",
+    "Charlize Theron"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

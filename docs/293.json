@@ -1,11 +1,11 @@
 {
   "date": "293",
-  "question": "Which 2023 film won the Palme d'Or?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Perfect Days",
-    "Fallen Leaves",
-    "The Zone of Interest",
-    "Anatomy of a Fall"
+    "Ben Affleck",
+    "Todd Phillips",
+    "Denis Villeneuve",
+    "David Fincher"
   ],
   "correctIndex": 3
 }

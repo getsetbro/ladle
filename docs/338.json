@@ -1,11 +1,11 @@
 {
   "date": "338",
-  "question": "Which Korean film features the character Oh Dae-su?",
+  "question": "Which movie features Daniel Plainview?",
   "choices": [
-    "Oldboy",
-    "The Handmaiden",
-    "Burning",
-    "Parasite"
+    "The Master",
+    "Vice",
+    "No Country for Old Men",
+    "There Will Be Blood"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

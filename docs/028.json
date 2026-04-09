@@ -1,11 +1,11 @@
 {
   "date": "028",
-  "question": "Who directed Roma (2018)?",
+  "question": "Who directed The Martian (2015)?",
   "choices": [
-    "Alejandro G. Inarritu",
-    "Alfonso Cuaron",
-    "Guillermo del Toro",
-    "Carlos Reygadas"
+    "Ridley Scott",
+    "Christopher Nolan",
+    "Danny Boyle",
+    "Ron Howard"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "060",
-  "question": "Who directed Arrival (2016)?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "Denis Villeneuve",
-    "Alex Garland",
-    "Christopher Nolan",
-    "Ridley Scott"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
   "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "085",
-  "question": "Who directed A Separation (2011)?",
+  "question": "Who composed the score for Interstellar (2014)?",
   "choices": [
-    "Majid Majidi",
-    "Abbas Kiarostami",
-    "Jafar Panahi",
-    "Asghar Farhadi"
+    "John Williams",
+    "Trent Reznor",
+    "Alexandre Desplat",
+    "Hans Zimmer"
   ],
   "correctIndex": 3
 }

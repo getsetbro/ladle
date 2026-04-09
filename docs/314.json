@@ -1,11 +1,11 @@
 {
   "date": "314",
-  "question": "Who directed Eternal Sunshine of the Spotless Mind (2004)?",
+  "question": "Which movie features a drumming student and Terence Fletcher?",
   "choices": [
-    "Spike Jonze",
-    "David O. Russell",
-    "Michel Gondry",
-    "Charlie Kaufman"
+    "Sound of Metal",
+    "TAR",
+    "Whiplash",
+    "Birdman"
   ],
   "correctIndex": 2
 }

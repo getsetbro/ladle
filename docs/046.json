@@ -1,11 +1,11 @@
 {
   "date": "046",
-  "question": "Who directed The Master (2012)?",
+  "question": "Which film features the line Why so serious??",
   "choices": [
-    "Todd Haynes",
-    "Bennett Miller",
-    "Paul Thomas Anderson",
-    "David O. Russell"
+    "Batman Begins",
+    "The Batman",
+    "The Dark Knight",
+    "Joker"
   ],
   "correctIndex": 2
 }

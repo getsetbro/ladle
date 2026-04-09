@@ -1,11 +1,11 @@
 {
   "date": "142",
-  "question": "Who directed Drive My Car (2021)?",
+  "question": "Which movie stars Ryan Gosling as a Hollywood stuntman in 2024?",
   "choices": [
-    "Takashi Miike",
-    "Naomi Kawase",
-    "Kore-eda Hirokazu",
-    "Ryusuke Hamaguchi"
+    "Bullet Train",
+    "Once Upon a Time in Hollywood",
+    "The Fall Guy",
+    "Drive"
   ],
-  "correctIndex": 3
+  "correctIndex": 2
 }

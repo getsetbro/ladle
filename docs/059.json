@@ -1,11 +1,11 @@
 {
   "date": "059",
-  "question": "Which 2015 film won Best Cinematography for Emmanuel Lubezki?",
+  "question": "Who directed The Grand Budapest Hotel (2014)?",
   "choices": [
-    "Carol",
-    "Birdman",
-    "The Revenant",
-    "Sicario"
+    "Yorgos Lanthimos",
+    "Wes Anderson",
+    "Noah Baumbach",
+    "Taika Waititi"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

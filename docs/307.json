@@ -1,11 +1,11 @@
 {
   "date": "307",
-  "question": "Which 2003 Brazilian film was directed by Fernando Meirelles and Katia Lund?",
+  "question": "Who directed The Batman (2022)?",
   "choices": [
-    "Central Station",
-    "Carandiru",
-    "City of God",
-    "Elite Squad"
+    "David Fincher",
+    "Matt Reeves",
+    "Christopher Nolan",
+    "Todd Phillips"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

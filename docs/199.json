@@ -1,11 +1,11 @@
 {
   "date": "199",
-  "question": "Which film won Best Picture at the 2017 Oscars?",
+  "question": "Who directed Dune (2021)?",
   "choices": [
-    "Manchester by the Sea",
-    "La La Land",
-    "Moonlight",
-    "Arrival"
+    "George Miller",
+    "Denis Villeneuve",
+    "Ridley Scott",
+    "Christopher Nolan"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

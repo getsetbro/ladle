@@ -1,11 +1,11 @@
 {
   "date": "183",
-  "question": "Which film won Best Picture at the 2022 Oscars ceremony?",
+  "question": "Who played Amy Dunne in Gone Girl (2014)?",
   "choices": [
-    "King Richard",
-    "Belfast",
-    "Dune",
-    "CODA"
+    "Rebecca Hall",
+    "Rosamund Pike",
+    "Emily Blunt",
+    "Charlize Theron"
   ],
-  "correctIndex": 3
+  "correctIndex": 1
 }

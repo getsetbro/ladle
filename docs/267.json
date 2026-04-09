@@ -1,11 +1,11 @@
 {
   "date": "267",
-  "question": "Which movie won Best Picture at the 2021 Oscars ceremony?",
+  "question": "Who directed The Batman (2022)?",
   "choices": [
-    "Promising Young Woman",
-    "The Father",
-    "Nomadland",
-    "Mank"
+    "David Fincher",
+    "Matt Reeves",
+    "Christopher Nolan",
+    "Todd Phillips"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

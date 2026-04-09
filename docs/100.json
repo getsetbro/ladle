@@ -1,11 +1,11 @@
 {
   "date": "100",
-  "question": "Which 2007 film stars Daniel Day-Lewis as Daniel Plainview?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "There Will Be Blood",
-    "The Assassination of Jesse James",
-    "Michael Clayton",
-    "No Country for Old Men"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
   "correctIndex": 0
 }

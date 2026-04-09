@@ -1,11 +1,11 @@
 {
   "date": "158",
-  "question": "Who directed The Banshees of Inisherin (2022)?",
+  "question": "Which movie follows Louise Banks decoding alien language?",
   "choices": [
-    "John Michael McDonagh",
-    "Sam Mendes",
-    "Yorgos Lanthimos",
-    "Martin McDonagh"
+    "Interstellar",
+    "Contact",
+    "Annihilation",
+    "Arrival"
   ],
   "correctIndex": 3
 }

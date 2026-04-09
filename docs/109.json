@@ -1,11 +1,11 @@
 {
   "date": "109",
-  "question": "Who directed The Master (2012)?",
+  "question": "Who played Jordan in Nope (2022) as OJ Haywood?",
   "choices": [
-    "David O. Russell",
-    "Todd Haynes",
-    "Bennett Miller",
-    "Paul Thomas Anderson"
+    "Daniel Kaluuya",
+    "Lakeith Stanfield",
+    "Michael B. Jordan",
+    "John Boyega"
   ],
-  "correctIndex": 3
+  "correctIndex": 0
 }

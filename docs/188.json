@@ -1,11 +1,11 @@
 {
   "date": "188",
-  "question": "Who directed Eternal Sunshine of the Spotless Mind (2004)?",
+  "question": "Who directed The Martian (2015)?",
   "choices": [
-    "Michel Gondry",
-    "Charlie Kaufman",
-    "Spike Jonze",
-    "David O. Russell"
+    "Ridley Scott",
+    "Christopher Nolan",
+    "Danny Boyle",
+    "Ron Howard"
   ],
   "correctIndex": 0
 }

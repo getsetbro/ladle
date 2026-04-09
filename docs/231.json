@@ -1,11 +1,11 @@
 {
   "date": "231",
-  "question": "Who directed The Zone of Interest (2023)?",
+  "question": "Who directed The Revenant (2015)?",
   "choices": [
-    "Luca Guadagnino",
-    "Steve McQueen",
-    "Jonathan Glazer",
-    "Yorgos Lanthimos"
+    "Damien Chazelle",
+    "Alejandro G. Inarritu",
+    "Alfonso Cuaron",
+    "Guillermo del Toro"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

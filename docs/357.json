@@ -1,11 +1,11 @@
 {
   "date": "357",
-  "question": "Who directed The Zone of Interest (2023)?",
+  "question": "Who played Mark Zuckerberg in The Social Network?",
   "choices": [
-    "Jonathan Glazer",
-    "Yorgos Lanthimos",
-    "Luca Guadagnino",
-    "Steve McQueen"
+    "Andrew Garfield",
+    "Armie Hammer",
+    "Joseph Gordon-Levitt",
+    "Jesse Eisenberg"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

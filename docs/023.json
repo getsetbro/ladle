@@ -1,11 +1,11 @@
 {
   "date": "023",
-  "question": "Which Korean film features the character Oh Dae-su?",
+  "question": "Who played Amy Dunne in Gone Girl (2014)?",
   "choices": [
-    "The Handmaiden",
-    "Burning",
-    "Parasite",
-    "Oldboy"
+    "Rebecca Hall",
+    "Rosamund Pike",
+    "Emily Blunt",
+    "Charlize Theron"
   ],
-  "correctIndex": 3
+  "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "050",
-  "question": "Who directed Heat (1995)?",
+  "question": "Which movie stars Christian Bale as Batman in 2008?",
   "choices": [
-    "Brian De Palma",
-    "Kathryn Bigelow",
-    "Michael Mann",
-    "Tony Scott"
+    "The Dark Knight Rises",
+    "Justice League",
+    "Batman Begins",
+    "The Dark Knight"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

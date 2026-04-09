@@ -1,11 +1,11 @@
 {
   "date": "057",
-  "question": "Which film won Best Picture at the 2022 Oscars ceremony?",
+  "question": "Who directed La La Land (2016)?",
   "choices": [
-    "Dune",
-    "CODA",
-    "King Richard",
-    "Belfast"
+    "Baz Luhrmann",
+    "Tom Hooper",
+    "Sam Mendes",
+    "Damien Chazelle"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

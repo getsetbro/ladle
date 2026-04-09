@@ -1,11 +1,11 @@
 {
   "date": "221",
-  "question": "Who directed The Banshees of Inisherin (2022)?",
+  "question": "Who directed Sicario (2015)?",
   "choices": [
-    "Martin McDonagh",
-    "John Michael McDonagh",
-    "Sam Mendes",
-    "Yorgos Lanthimos"
+    "Taylor Sheridan",
+    "Antoine Fuqua",
+    "Chad Stahelski",
+    "Denis Villeneuve"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

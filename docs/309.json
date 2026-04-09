@@ -1,11 +1,11 @@
 {
   "date": "309",
-  "question": "Which film won Best Picture at the 2022 Oscars ceremony?",
+  "question": "Who played Jordan in Nope (2022) as OJ Haywood?",
   "choices": [
-    "Dune",
-    "CODA",
-    "King Richard",
-    "Belfast"
+    "Daniel Kaluuya",
+    "Lakeith Stanfield",
+    "Michael B. Jordan",
+    "John Boyega"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

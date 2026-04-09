@@ -1,11 +1,11 @@
 {
   "date": "269",
-  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
+  "question": "Who played Jordan in Nope (2022) as OJ Haywood?",
   "choices": [
-    "Everything Everywhere All at Once",
-    "All Quiet on the Western Front",
-    "TAR",
-    "The Banshees of Inisherin"
+    "Daniel Kaluuya",
+    "Lakeith Stanfield",
+    "Michael B. Jordan",
+    "John Boyega"
   ],
   "correctIndex": 0
 }

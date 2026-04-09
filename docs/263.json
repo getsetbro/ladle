@@ -1,11 +1,11 @@
 {
   "date": "263",
-  "question": "Who directed Zodiac (2007)?",
+  "question": "Who played Amy Dunne in Gone Girl (2014)?",
   "choices": [
-    "Steven Soderbergh",
-    "David Fincher",
-    "Michael Mann",
-    "Denis Villeneuve"
+    "Rebecca Hall",
+    "Rosamund Pike",
+    "Emily Blunt",
+    "Charlize Theron"
   ],
   "correctIndex": 1
 }

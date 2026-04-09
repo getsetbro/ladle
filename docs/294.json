@@ -1,11 +1,11 @@
 {
   "date": "294",
-  "question": "Who directed The Zone of Interest (2023)?",
+  "question": "Which movie features Officer K as the lead character?",
   "choices": [
-    "Yorgos Lanthimos",
-    "Luca Guadagnino",
-    "Steve McQueen",
-    "Jonathan Glazer"
+    "Ex Machina",
+    "Upgrade",
+    "Minority Report",
+    "Blade Runner 2049"
   ],
   "correctIndex": 3
 }

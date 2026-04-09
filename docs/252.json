@@ -1,11 +1,11 @@
 {
   "date": "252",
-  "question": "Which 2023 film stars Sandra Huller as writer Sandra Voyter?",
+  "question": "Which film won Best Picture at the Oscars for 2016?",
   "choices": [
-    "Past Lives",
-    "Anatomy of a Fall",
-    "May December",
-    "Priscilla"
+    "Spotlight",
+    "The Revenant",
+    "Mad Max: Fury Road",
+    "The Big Short"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "014",
-  "question": "Who plays Lydia Tar in TAR (2022)?",
+  "question": "Which movie features Officer K as the lead character?",
   "choices": [
-    "Tilda Swinton",
-    "Olivia Colman",
-    "Cate Blanchett",
-    "Julianne Moore"
+    "Ex Machina",
+    "Upgrade",
+    "Minority Report",
+    "Blade Runner 2049"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "143",
-  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
+  "question": "Who played Amy Dunne in Gone Girl (2014)?",
   "choices": [
-    "TAR",
-    "The Banshees of Inisherin",
-    "Everything Everywhere All at Once",
-    "All Quiet on the Western Front"
+    "Rebecca Hall",
+    "Rosamund Pike",
+    "Emily Blunt",
+    "Charlize Theron"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

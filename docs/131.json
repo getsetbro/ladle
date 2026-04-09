@@ -1,11 +1,11 @@
 {
   "date": "131",
-  "question": "Which 2011 Iranian film won the Oscar for International Feature?",
+  "question": "Who directed Oppenheimer (2023)?",
   "choices": [
-    "Children of Heaven",
-    "A Separation",
-    "The Salesman",
-    "Close-Up"
+    "Damien Chazelle",
+    "Christopher Nolan",
+    "Sam Mendes",
+    "Denis Villeneuve"
   ],
   "correctIndex": 1
 }

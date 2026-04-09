@@ -1,11 +1,11 @@
 {
   "date": "247",
-  "question": "Who directed La La Land (2016)?",
+  "question": "Who directed The Social Network (2010)?",
   "choices": [
-    "Ryan Coogler",
-    "Damien Chazelle",
-    "Baz Luhrmann",
-    "Tom Hooper"
+    "Bennett Miller",
+    "David Fincher",
+    "Danny Boyle",
+    "Aaron Sorkin"
   ],
   "correctIndex": 1
 }

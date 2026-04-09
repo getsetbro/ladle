@@ -1,11 +1,11 @@
 {
   "date": "347",
-  "question": "Who directed The Banshees of Inisherin (2022)?",
+  "question": "Who directed The Batman (2022)?",
   "choices": [
-    "Sam Mendes",
-    "Yorgos Lanthimos",
-    "Martin McDonagh",
-    "John Michael McDonagh"
+    "David Fincher",
+    "Matt Reeves",
+    "Christopher Nolan",
+    "Todd Phillips"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

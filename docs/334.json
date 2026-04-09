@@ -1,11 +1,11 @@
 {
   "date": "334",
-  "question": "Which film won Best Director for Bong Joon-ho?",
+  "question": "Which movie features Officer K as the lead character?",
   "choices": [
-    "Mother",
-    "The Host",
-    "Memories of Murder",
-    "Parasite"
+    "Ex Machina",
+    "Upgrade",
+    "Minority Report",
+    "Blade Runner 2049"
   ],
   "correctIndex": 3
 }

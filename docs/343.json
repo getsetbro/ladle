@@ -1,11 +1,11 @@
 {
   "date": "343",
-  "question": "Who directed Roma (2018)?",
+  "question": "Who played Amy Dunne in Gone Girl (2014)?",
   "choices": [
-    "Carlos Reygadas",
-    "Alejandro G. Inarritu",
-    "Alfonso Cuaron",
-    "Guillermo del Toro"
+    "Rebecca Hall",
+    "Rosamund Pike",
+    "Emily Blunt",
+    "Charlize Theron"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "233",
-  "question": "Who directed Get Out (2017)?",
+  "question": "Who played the lead role in Joker (2019)?",
   "choices": [
-    "Ari Aster",
-    "James Wan",
-    "Robert Eggers",
-    "Jordan Peele"
+    "Jared Leto",
+    "Barry Keoghan",
+    "Paul Dano",
+    "Joaquin Phoenix"
   ],
   "correctIndex": 3
 }

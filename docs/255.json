@@ -1,11 +1,11 @@
 {
   "date": "255",
-  "question": "Who edited Mad Max: Fury Road (2015), winning the Oscar?",
+  "question": "Who played Furiosa in Mad Max: Fury Road (2015)?",
   "choices": [
-    "Sally Menke",
-    "Margaret Sixel",
-    "Thelma Schoonmaker",
-    "Claire Simpson"
+    "Rebecca Ferguson",
+    "Charlize Theron",
+    "Emily Blunt",
+    "Anya Taylor-Joy"
   ],
   "correctIndex": 1
 }

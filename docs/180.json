@@ -1,11 +1,11 @@
 {
   "date": "180",
-  "question": "Who directed Her (2013)?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "Spike Jonze",
-    "Sofia Coppola",
-    "Charlie Kaufman",
-    "Noah Baumbach"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
   "correctIndex": 0
 }

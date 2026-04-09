@@ -1,11 +1,11 @@
 {
   "date": "032",
-  "question": "Who directed The Banshees of Inisherin (2022)?",
+  "question": "Which film won Best Picture at the Oscars for 2011?",
   "choices": [
-    "Yorgos Lanthimos",
-    "Martin McDonagh",
-    "John Michael McDonagh",
-    "Sam Mendes"
+    "The King's Speech",
+    "The Social Network",
+    "Inception",
+    "Black Swan"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

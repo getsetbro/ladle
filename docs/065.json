@@ -1,11 +1,11 @@
 {
   "date": "065",
-  "question": "Which film won the Palme d'Or in 2019?",
+  "question": "Who directed Arrival (2016)?",
   "choices": [
-    "Parasite",
-    "Pain and Glory",
-    "Atlantics",
-    "Portrait of a Lady on Fire"
+    "Alex Garland",
+    "Christopher Nolan",
+    "Ridley Scott",
+    "Denis Villeneuve"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

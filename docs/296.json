@@ -1,11 +1,11 @@
 {
   "date": "296",
-  "question": "Who directed Get Out (2017)?",
+  "question": "Which film won Best Picture at the Oscars for 2022?",
   "choices": [
-    "Jordan Peele",
-    "Ari Aster",
-    "James Wan",
-    "Robert Eggers"
+    "Dune",
+    "CODA",
+    "Belfast",
+    "The Power of the Dog"
   ],
-  "correctIndex": 0
+  "correctIndex": 1
 }

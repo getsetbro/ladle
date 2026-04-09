@@ -1,11 +1,11 @@
 {
   "date": "328",
-  "question": "Who directed Phantom Thread (2017)?",
+  "question": "Who directed The Martian (2015)?",
   "choices": [
-    "Paul Thomas Anderson",
-    "Todd Haynes",
-    "Luca Guadagnino",
-    "Noah Baumbach"
+    "Ridley Scott",
+    "Christopher Nolan",
+    "Danny Boyle",
+    "Ron Howard"
   ],
   "correctIndex": 0
 }

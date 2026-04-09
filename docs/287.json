@@ -1,11 +1,11 @@
 {
   "date": "287",
-  "question": "Which film won the Palme d'Or in 2021?",
+  "question": "Who directed The Social Network (2010)?",
   "choices": [
-    "A Hero",
-    "Drive My Car",
-    "Titane",
-    "Compartment No. 6"
+    "Bennett Miller",
+    "David Fincher",
+    "Danny Boyle",
+    "Aaron Sorkin"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

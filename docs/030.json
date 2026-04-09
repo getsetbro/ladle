@@ -1,11 +1,11 @@
 {
   "date": "030",
-  "question": "Who directed Gone Girl (2014)?",
+  "question": "Which movie features the line I drink your milkshake!?",
   "choices": [
-    "Denis Villeneuve",
-    "Todd Phillips",
-    "David Fincher",
-    "Ben Affleck"
+    "No Country for Old Men",
+    "Vice",
+    "There Will Be Blood",
+    "The Master"
   ],
   "correctIndex": 2
 }

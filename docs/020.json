@@ -1,11 +1,11 @@
 {
   "date": "020",
-  "question": "Who shot Dune (2021) as cinematographer?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "Greig Fraser",
-    "Roger Deakins",
-    "Linus Sandgren",
-    "Dan Laustsen"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
   "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "155",
-  "question": "Which film won Best International Feature at the 2022 Oscars?",
+  "question": "Who directed The Departed (2006)?",
   "choices": [
-    "The Worst Person in the World",
-    "Flee",
-    "The Hand of God",
-    "Drive My Car"
+    "Oliver Stone",
+    "Martin Scorsese",
+    "Michael Mann",
+    "Ridley Scott"
   ],
-  "correctIndex": 3
+  "correctIndex": 1
 }

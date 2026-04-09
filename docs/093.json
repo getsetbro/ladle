@@ -3,8 +3,8 @@
   "question": "Who directed Gone Girl (2014)?",
   "choices": [
     "Ben Affleck",
-    "Denis Villeneuve",
     "Todd Phillips",
+    "Denis Villeneuve",
     "David Fincher"
   ],
   "correctIndex": 3

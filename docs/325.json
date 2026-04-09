@@ -1,11 +1,11 @@
 {
   "date": "325",
-  "question": "Which film won Best Picture at the 2017 Oscars?",
+  "question": "Who composed the score for Interstellar (2014)?",
   "choices": [
-    "Moonlight",
-    "Arrival",
-    "Manchester by the Sea",
-    "La La Land"
+    "John Williams",
+    "Trent Reznor",
+    "Alexandre Desplat",
+    "Hans Zimmer"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "053",
-  "question": "Which film won Best Picture at the 2019 Oscars ceremony?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Green Book",
-    "Black Panther",
-    "Vice",
-    "Roma"
+    "Ben Affleck",
+    "Todd Phillips",
+    "Denis Villeneuve",
+    "David Fincher"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

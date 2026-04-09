@@ -1,11 +1,11 @@
 {
   "date": "149",
-  "question": "Which Korean film features the character Oh Dae-su?",
+  "question": "Who played Jordan in Nope (2022) as OJ Haywood?",
   "choices": [
-    "Parasite",
-    "Oldboy",
-    "The Handmaiden",
-    "Burning"
+    "Daniel Kaluuya",
+    "Lakeith Stanfield",
+    "Michael B. Jordan",
+    "John Boyega"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

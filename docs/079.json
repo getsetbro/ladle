@@ -1,11 +1,11 @@
 {
   "date": "079",
-  "question": "Who directed Drive My Car (2021)?",
+  "question": "Who directed Dune (2021)?",
   "choices": [
-    "Naomi Kawase",
-    "Kore-eda Hirokazu",
-    "Ryusuke Hamaguchi",
-    "Takashi Miike"
+    "George Miller",
+    "Denis Villeneuve",
+    "Ridley Scott",
+    "Christopher Nolan"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

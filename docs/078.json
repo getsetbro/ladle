@@ -1,11 +1,11 @@
 {
   "date": "078",
-  "question": "Which movie won Best Picture at the 2021 Oscars ceremony?",
+  "question": "Which movie follows Louise Banks decoding alien language?",
   "choices": [
-    "Mank",
-    "Promising Young Woman",
-    "The Father",
-    "Nomadland"
+    "Interstellar",
+    "Contact",
+    "Annihilation",
+    "Arrival"
   ],
   "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "133",
-  "question": "Which film won Best Picture at the 2020 Oscars ceremony?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Parasite",
-    "Joker",
-    "Ford v Ferrari",
-    "1917"
+    "Ben Affleck",
+    "Todd Phillips",
+    "Denis Villeneuve",
+    "David Fincher"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

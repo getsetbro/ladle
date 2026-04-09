@@ -1,11 +1,11 @@
 {
   "date": "071",
-  "question": "Who composed the score for Oppenheimer (2023)?",
+  "question": "Who directed The Revenant (2015)?",
   "choices": [
-    "Nicholas Britell",
-    "Hans Zimmer",
-    "Ludwig Goransson",
-    "Hildur Gudnadottir"
+    "Damien Chazelle",
+    "Alejandro G. Inarritu",
+    "Alfonso Cuaron",
+    "Guillermo del Toro"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "083",
-  "question": "Who shot Dune (2021) as cinematographer?",
+  "question": "Who played Jordan Belfort in The Wolf of Wall Street (2013)?",
   "choices": [
-    "Dan Laustsen",
-    "Greig Fraser",
-    "Roger Deakins",
-    "Linus Sandgren"
+    "Ryan Gosling",
+    "Christian Bale",
+    "Leonardo DiCaprio",
+    "Matt Damon"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

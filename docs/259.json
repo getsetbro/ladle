@@ -1,11 +1,11 @@
 {
   "date": "259",
-  "question": "Which film won Best Picture at the 2020 Oscars ceremony?",
+  "question": "Who directed The Grand Budapest Hotel (2014)?",
   "choices": [
-    "Ford v Ferrari",
-    "1917",
-    "Parasite",
-    "Joker"
+    "Yorgos Lanthimos",
+    "Wes Anderson",
+    "Noah Baumbach",
+    "Taika Waititi"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

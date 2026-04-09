@@ -1,11 +1,11 @@
 {
   "date": "220",
-  "question": "Which 2016 film won Best Original Screenplay for Kenneth Lonergan?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "Moonlight",
-    "Manchester by the Sea",
-    "Hell or High Water",
-    "La La Land"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

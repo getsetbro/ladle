@@ -1,11 +1,11 @@
 {
   "date": "331",
-  "question": "Who directed Drive My Car (2021)?",
+  "question": "Who directed Oppenheimer (2023)?",
   "choices": [
-    "Naomi Kawase",
-    "Kore-eda Hirokazu",
-    "Ryusuke Hamaguchi",
-    "Takashi Miike"
+    "Damien Chazelle",
+    "Christopher Nolan",
+    "Sam Mendes",
+    "Denis Villeneuve"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

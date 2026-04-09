@@ -1,11 +1,11 @@
 {
   "date": "300",
-  "question": "Who directed Mulholland Drive (2001)?",
+  "question": "Who directed Ford v Ferrari (2019)?",
   "choices": [
-    "David Lynch",
-    "Brian De Palma",
-    "Darren Aronofsky",
-    "David Cronenberg"
+    "James Mangold",
+    "Joseph Kosinski",
+    "Ron Howard",
+    "Michael Mann"
   ],
   "correctIndex": 0
 }

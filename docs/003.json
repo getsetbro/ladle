@@ -1,11 +1,11 @@
 {
   "date": "003",
-  "question": "Who edited Mad Max: Fury Road (2015), winning the Oscar?",
+  "question": "Who played Jordan Belfort in The Wolf of Wall Street (2013)?",
   "choices": [
-    "Sally Menke",
-    "Margaret Sixel",
-    "Thelma Schoonmaker",
-    "Claire Simpson"
+    "Ryan Gosling",
+    "Christian Bale",
+    "Leonardo DiCaprio",
+    "Matt Damon"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }
