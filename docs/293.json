@@ -1,11 +1,11 @@
 {
   "date": "day-293",
-  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "question": "Which 2023 film won the Palme d'Or?",
   "choices": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "White"
+    "Perfect Days",
+    "Fallen Leaves",
+    "The Zone of Interest",
+    "Anatomy of a Fall"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

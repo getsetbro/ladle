@@ -1,11 +1,11 @@
 {
   "date": "day-167",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Which 2023 film won the Palme d'Or?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "The Zone of Interest",
+    "Anatomy of a Fall",
+    "Perfect Days",
+    "Fallen Leaves"
   ],
   "correctIndex": 1
 }

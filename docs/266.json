@@ -1,11 +1,11 @@
 {
   "date": "day-266",
-  "question": "What is the capital city of Canada?",
+  "question": "Who plays Lydia Tar in TAR (2022)?",
   "choices": [
-    "Toronto",
-    "Ottawa",
-    "Vancouver",
-    "Montreal"
+    "Tilda Swinton",
+    "Olivia Colman",
+    "Cate Blanchett",
+    "Julianne Moore"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

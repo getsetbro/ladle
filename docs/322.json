@@ -1,11 +1,11 @@
 {
   "date": "day-322",
-  "question": "Which river flows through Egypt?",
+  "question": "Which film won Best Picture at the 2020 Oscars ceremony?",
   "choices": [
-    "Amazon",
-    "Yangtze",
-    "Nile",
-    "Danube"
+    "Joker",
+    "Ford v Ferrari",
+    "1917",
+    "Parasite"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

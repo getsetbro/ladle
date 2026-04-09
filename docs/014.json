@@ -1,11 +1,11 @@
 {
-  "date": "014",
-  "question": "What is the process of converting water vapor into liquid water called?",
+  "date": "day-014",
+  "question": "Who plays Lydia Tar in TAR (2022)?",
   "choices": [
-    "Evaporation",
-    "Condensation",
-    "Sublimation",
-    "Transpiration"
+    "Tilda Swinton",
+    "Olivia Colman",
+    "Cate Blanchett",
+    "Julianne Moore"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

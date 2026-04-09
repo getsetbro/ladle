@@ -1,11 +1,11 @@
 {
   "date": "day-208",
-  "question": "Who wrote 1984?",
+  "question": "Which film won Best Director for Bong Joon-ho?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "Memories of Murder",
+    "Parasite",
+    "Mother",
+    "The Host"
   ],
-  "correctIndex": 0
+  "correctIndex": 1
 }

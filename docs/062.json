@@ -1,11 +1,11 @@
 {
   "date": "day-062",
-  "question": "Who was the first President of the United States?",
+  "question": "Who directed Eternal Sunshine of the Spotless Mind (2004)?",
   "choices": [
-    "Thomas Jefferson",
-    "George Washington",
-    "John Adams",
-    "James Madison"
+    "Spike Jonze",
+    "David O. Russell",
+    "Michel Gondry",
+    "Charlie Kaufman"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

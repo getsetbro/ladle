@@ -1,11 +1,11 @@
 {
   "date": "day-142",
-  "question": "Which company created the iPhone?",
+  "question": "Who directed Drive My Car (2021)?",
   "choices": [
-    "Google",
-    "Samsung",
-    "Apple",
-    "Nokia"
+    "Takashi Miike",
+    "Naomi Kawase",
+    "Kore-eda Hirokazu",
+    "Ryusuke Hamaguchi"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

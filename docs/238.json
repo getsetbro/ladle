@@ -1,11 +1,11 @@
 {
   "date": "day-238",
-  "question": "What is the capital city of Canada?",
+  "question": "Which 2021 film stars Renate Reinsve as Julie?",
   "choices": [
-    "Toronto",
-    "Ottawa",
-    "Vancouver",
-    "Montreal"
+    "The Worst Person in the World",
+    "Petite Maman",
+    "The Souvenir Part II",
+    "Compartment No. 6"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

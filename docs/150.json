@@ -1,11 +1,11 @@
 {
   "date": "day-150",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Who directed Sicario (2015)?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "Antoine Fuqua",
+    "Chad Stahelski",
+    "Denis Villeneuve",
+    "Taylor Sheridan"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

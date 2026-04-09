@@ -1,11 +1,11 @@
 {
   "date": "day-248",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Which 2015 film won Best Cinematography for Emmanuel Lubezki?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "Birdman",
+    "The Revenant",
+    "Sicario",
+    "Carol"
   ],
   "correctIndex": 1
 }

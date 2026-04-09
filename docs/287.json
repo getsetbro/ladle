@@ -1,11 +1,11 @@
 {
   "date": "day-287",
-  "question": "Which is the largest ocean on Earth?",
+  "question": "Which film won the Palme d'Or in 2021?",
   "choices": [
-    "Atlantic",
-    "Indian",
-    "Arctic",
-    "Pacific"
+    "A Hero",
+    "Drive My Car",
+    "Titane",
+    "Compartment No. 6"
   ],
-  "correctIndex": 3
+  "correctIndex": 2
 }

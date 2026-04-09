@@ -1,11 +1,11 @@
 {
-  "date": "025",
-  "question": "Which organ in the human body is primarily responsible for pumping blood?",
+  "date": "day-025",
+  "question": "Which film won Best Picture at the 2010 Oscars ceremony?",
   "choices": [
-    "Lungs",
-    "Liver",
-    "Heart",
-    "Kidneys"
+    "The Hurt Locker",
+    "Inglourious Basterds",
+    "Up in the Air",
+    "Avatar"
   ],
-  "correctIndex": 2
+  "correctIndex": 0
 }

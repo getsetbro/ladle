@@ -1,11 +1,11 @@
 {
   "date": "day-290",
-  "question": "Which actor played Iron Man in the MCU?",
+  "question": "Who directed Inception (2010)?",
   "choices": [
-    "Chris Evans",
-    "Chris Hemsworth",
-    "Robert Downey Jr.",
-    "Mark Ruffalo"
+    "Darren Aronofsky",
+    "David Fincher",
+    "Christopher Nolan",
+    "Denis Villeneuve"
   ],
   "correctIndex": 2
 }

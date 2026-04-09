@@ -1,11 +1,11 @@
 {
   "date": "day-046",
-  "question": "What is 9 x 7?",
+  "question": "Who directed The Master (2012)?",
   "choices": [
-    "54",
-    "63",
-    "72",
-    "70"
+    "Todd Haynes",
+    "Bennett Miller",
+    "Paul Thomas Anderson",
+    "David O. Russell"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

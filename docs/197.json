@@ -1,11 +1,11 @@
 {
   "date": "day-197",
-  "question": "The Great Wall is primarily associated with which country?",
+  "question": "Who composed the score for Oppenheimer (2023)?",
   "choices": [
-    "Japan",
-    "China",
-    "India",
-    "Mongolia"
+    "Ludwig Goransson",
+    "Hildur Gudnadottir",
+    "Nicholas Britell",
+    "Hans Zimmer"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

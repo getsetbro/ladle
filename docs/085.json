@@ -1,11 +1,11 @@
 {
   "date": "day-085",
-  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "question": "Who directed A Separation (2011)?",
   "choices": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "White"
+    "Majid Majidi",
+    "Abbas Kiarostami",
+    "Jafar Panahi",
+    "Asghar Farhadi"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

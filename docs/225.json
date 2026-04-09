@@ -1,11 +1,11 @@
 {
   "date": "day-225",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Who directed No Country for Old Men (2007)?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Paul Thomas Anderson",
+    "David Fincher",
+    "Clint Eastwood",
+    "The Coen Brothers"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

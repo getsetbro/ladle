@@ -1,11 +1,11 @@
 {
   "date": "day-215",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Who directed Whiplash (2014)?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "Richard Linklater",
+    "Damien Chazelle",
+    "Derek Cianfrance",
+    "Sam Mendes"
   ],
   "correctIndex": 1
 }

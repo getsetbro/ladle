@@ -1,11 +1,11 @@
 {
   "date": "day-351",
-  "question": "Who wrote The Hobbit?",
+  "question": "Who directed No Country for Old Men (2007)?",
   "choices": [
-    "C.S. Lewis",
-    "J.R.R. Tolkien",
-    "Philip Pullman",
-    "Ursula K. Le Guin"
+    "Clint Eastwood",
+    "The Coen Brothers",
+    "Paul Thomas Anderson",
+    "David Fincher"
   ],
   "correctIndex": 1
 }

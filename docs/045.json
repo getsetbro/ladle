@@ -1,11 +1,11 @@
 {
   "date": "day-045",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Which 2018 film directed by Lee Chang-dong stars Steven Yeun as Ben?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Parasite",
+    "Decision to Leave",
+    "Broker",
+    "Burning"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

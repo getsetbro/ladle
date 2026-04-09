@@ -1,11 +1,11 @@
 {
-  "date": "004",
-  "question": "What is the capital city of Japan?",
+  "date": "day-004",
+  "question": "Who shot There Will Be Blood (2007) as cinematographer?",
   "choices": [
-    "Seoul",
-    "Tokyo",
-    "Kyoto",
-    "Osaka"
+    "Robert Elswit",
+    "Roger Deakins",
+    "Emmanuel Lubezki",
+    "Hoyte van Hoytema"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

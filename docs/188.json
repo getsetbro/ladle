@@ -1,11 +1,11 @@
 {
   "date": "day-188",
-  "question": "In which year did World War II end?",
+  "question": "Who directed Eternal Sunshine of the Spotless Mind (2004)?",
   "choices": [
-    "1943",
-    "1945",
-    "1947",
-    "1950"
+    "Michel Gondry",
+    "Charlie Kaufman",
+    "Spike Jonze",
+    "David O. Russell"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

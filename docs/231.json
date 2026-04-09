@@ -1,11 +1,11 @@
 {
   "date": "day-231",
-  "question": "How many holes are in a standard round of golf?",
+  "question": "Who directed The Zone of Interest (2023)?",
   "choices": [
-    "9",
-    "12",
-    "18",
-    "24"
+    "Luca Guadagnino",
+    "Steve McQueen",
+    "Jonathan Glazer",
+    "Yorgos Lanthimos"
   ],
   "correctIndex": 2
 }

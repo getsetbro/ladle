@@ -1,11 +1,11 @@
 {
   "date": "day-249",
-  "question": "What is H2O commonly known as?",
+  "question": "Who directed Arrival (2016)?",
   "choices": [
-    "Hydrogen peroxide",
-    "Salt water",
-    "Water",
-    "Ozone"
+    "Alex Garland",
+    "Christopher Nolan",
+    "Ridley Scott",
+    "Denis Villeneuve"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

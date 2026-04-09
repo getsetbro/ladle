@@ -1,11 +1,11 @@
 {
   "date": "day-307",
-  "question": "What is 10 x 6?",
+  "question": "Which 2003 Brazilian film was directed by Fernando Meirelles and Katia Lund?",
   "choices": [
-    "70",
-    "50",
-    "66",
-    "60"
+    "Central Station",
+    "Carandiru",
+    "City of God",
+    "Elite Squad"
   ],
-  "correctIndex": 3
+  "correctIndex": 2
 }

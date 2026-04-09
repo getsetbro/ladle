@@ -1,11 +1,11 @@
 {
   "date": "day-348",
-  "question": "What is the chemical symbol for sodium?",
+  "question": "Which movie won Best Picture at the 2016 Oscars ceremony?",
   "choices": [
-    "So",
-    "Sd",
-    "Na",
-    "Sn"
+    "The Revenant",
+    "Spotlight",
+    "Mad Max: Fury Road",
+    "The Big Short"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

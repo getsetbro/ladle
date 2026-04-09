@@ -1,11 +1,11 @@
 {
-  "date": "029",
-  "question": "What is the boiling point of water at sea level?",
+  "date": "day-029",
+  "question": "Which film won Best International Feature at the 2022 Oscars?",
   "choices": [
-    "100 degrees Celsius",
-    "90 degrees Celsius",
-    "80 degrees Celsius",
-    "120 degrees Celsius"
+    "The Hand of God",
+    "Drive My Car",
+    "The Worst Person in the World",
+    "Flee"
   ],
-  "correctIndex": 0
+  "correctIndex": 1
 }

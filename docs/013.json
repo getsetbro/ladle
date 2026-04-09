@@ -1,11 +1,11 @@
 {
-  "date": "013",
-  "question": "Which country is home to the Great Pyramid of Giza?",
+  "date": "day-013",
+  "question": "Who directed Phantom Thread (2017)?",
   "choices": [
-    "Mexico",
-    "Peru",
-    "Egypt",
-    "Jordan"
+    "Todd Haynes",
+    "Luca Guadagnino",
+    "Noah Baumbach",
+    "Paul Thomas Anderson"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

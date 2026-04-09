@@ -1,11 +1,11 @@
 {
   "date": "day-284",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Who directed The Banshees of Inisherin (2022)?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Yorgos Lanthimos",
+    "Martin McDonagh",
+    "John Michael McDonagh",
+    "Sam Mendes"
   ],
   "correctIndex": 1
 }

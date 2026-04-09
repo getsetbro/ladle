@@ -1,11 +1,11 @@
 {
   "date": "day-092",
-  "question": "Which planet is number 5 from the Sun?",
+  "question": "Which film won Best International Feature at the 2022 Oscars?",
   "choices": [
-    "Mars",
-    "Venus",
-    "Jupiter",
-    "Mercury"
+    "Flee",
+    "The Hand of God",
+    "Drive My Car",
+    "The Worst Person in the World"
   ],
   "correctIndex": 2
 }

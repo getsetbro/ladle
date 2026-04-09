@@ -1,11 +1,11 @@
 {
-  "date": "024",
-  "question": "What is the hardest natural substance on the Mohs scale?",
+  "date": "day-024",
+  "question": "Who directed Sicario (2015)?",
   "choices": [
-    "Quartz",
-    "Diamond",
-    "Topaz",
-    "Corundum"
+    "Denis Villeneuve",
+    "Taylor Sheridan",
+    "Antoine Fuqua",
+    "Chad Stahelski"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

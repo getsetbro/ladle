@@ -1,11 +1,11 @@
 {
   "date": "day-095",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Who directed The Banshees of Inisherin (2022)?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "Sam Mendes",
+    "Yorgos Lanthimos",
+    "Martin McDonagh",
+    "John Michael McDonagh"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

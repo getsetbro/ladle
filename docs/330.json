@@ -1,11 +1,11 @@
 {
   "date": "day-330",
-  "question": "How many players are on the court per team in basketball?",
+  "question": "Which movie won Best Picture at the 2021 Oscars ceremony?",
   "choices": [
-    "4",
-    "5",
-    "6",
-    "7"
+    "Mank",
+    "Promising Young Woman",
+    "The Father",
+    "Nomadland"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

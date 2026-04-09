@@ -1,11 +1,11 @@
 {
   "date": "day-206",
-  "question": "In which year did World War II end?",
+  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
   "choices": [
-    "1943",
-    "1945",
-    "1947",
-    "1950"
+    "All Quiet on the Western Front",
+    "TAR",
+    "The Banshees of Inisherin",
+    "Everything Everywhere All at Once"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

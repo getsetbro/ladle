@@ -1,11 +1,11 @@
 {
   "date": "day-252",
-  "question": "Which river flows through Egypt?",
+  "question": "Which 2023 film stars Sandra Huller as writer Sandra Voyter?",
   "choices": [
-    "Amazon",
-    "Yangtze",
-    "Nile",
-    "Danube"
+    "Past Lives",
+    "Anatomy of a Fall",
+    "May December",
+    "Priscilla"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

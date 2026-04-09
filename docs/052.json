@@ -1,11 +1,11 @@
 {
   "date": "day-052",
-  "question": "Who wrote 1984?",
+  "question": "Who directed The Grand Budapest Hotel (2014)?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "Wes Anderson",
+    "Noah Baumbach",
+    "Yorgos Lanthimos",
+    "Taika Waititi"
   ],
   "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-210",
-  "question": "Mount Kilimanjaro is located in which country?",
+  "question": "Which 2014 film won the Oscar for Best Picture?",
   "choices": [
-    "Kenya",
-    "Tanzania",
-    "Uganda",
-    "Ethiopia"
+    "Birdman",
+    "The Grand Budapest Hotel",
+    "Whiplash",
+    "Boyhood"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

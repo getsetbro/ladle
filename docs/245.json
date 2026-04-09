@@ -1,11 +1,11 @@
 {
   "date": "day-245",
-  "question": "Mount Kilimanjaro is located in which country?",
+  "question": "Who directed The Dark Knight (2008)?",
   "choices": [
-    "Kenya",
-    "Tanzania",
-    "Uganda",
-    "Ethiopia"
+    "Zack Snyder",
+    "Matt Reeves",
+    "David Fincher",
+    "Christopher Nolan"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

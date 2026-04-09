@@ -1,11 +1,11 @@
 {
   "date": "day-143",
-  "question": "Who wrote The Hobbit?",
+  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
   "choices": [
-    "C.S. Lewis",
-    "J.R.R. Tolkien",
-    "Philip Pullman",
-    "Ursula K. Le Guin"
+    "TAR",
+    "The Banshees of Inisherin",
+    "Everything Everywhere All at Once",
+    "All Quiet on the Western Front"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

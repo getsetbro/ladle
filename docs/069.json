@@ -1,11 +1,11 @@
 {
   "date": "day-069",
-  "question": "Which part of the cell contains genetic material?",
+  "question": "Who directed In the Mood for Love (2000)?",
   "choices": [
-    "Cell wall",
-    "Mitochondria",
-    "Nucleus",
-    "Ribosome"
+    "Wong Kar-wai",
+    "Hou Hsiao-hsien",
+    "Apichatpong Weerasethakul",
+    "Edward Yang"
   ],
-  "correctIndex": 2
+  "correctIndex": 0
 }

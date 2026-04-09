@@ -1,11 +1,11 @@
 {
   "date": "day-345",
-  "question": "Which actor played Iron Man in the MCU?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Chris Evans",
-    "Chris Hemsworth",
-    "Robert Downey Jr.",
-    "Mark Ruffalo"
+    "Ben Affleck",
+    "Denis Villeneuve",
+    "Todd Phillips",
+    "David Fincher"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

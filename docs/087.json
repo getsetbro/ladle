@@ -1,11 +1,11 @@
 {
   "date": "day-087",
-  "question": "Which part of the cell contains genetic material?",
+  "question": "Who directed Sicario (2015)?",
   "choices": [
-    "Cell wall",
-    "Mitochondria",
-    "Nucleus",
-    "Ribosome"
+    "Chad Stahelski",
+    "Denis Villeneuve",
+    "Taylor Sheridan",
+    "Antoine Fuqua"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

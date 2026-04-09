@@ -1,11 +1,11 @@
 {
   "date": "day-335",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Who shot Dune (2021) as cinematographer?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Dan Laustsen",
+    "Greig Fraser",
+    "Roger Deakins",
+    "Linus Sandgren"
   ],
   "correctIndex": 1
 }

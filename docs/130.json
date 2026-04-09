@@ -1,11 +1,11 @@
 {
-  "date": "130",
-  "question": "Which movie famously features a time-traveling DeLorean?",
+  "date": "day-130",
+  "question": "Who shot There Will Be Blood (2007) as cinematographer?",
   "choices": [
-    "Looper",
-    "Back to the Future",
-    "Primer",
-    "Tenet"
+    "Emmanuel Lubezki",
+    "Hoyte van Hoytema",
+    "Robert Elswit",
+    "Roger Deakins"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

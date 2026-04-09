@@ -1,11 +1,11 @@
 {
   "date": "day-359",
-  "question": "Which ancient civilization built Machu Picchu?",
+  "question": "Who directed Get Out (2017)?",
   "choices": [
-    "Maya",
-    "Aztec",
-    "Inca",
-    "Olmec"
+    "Robert Eggers",
+    "Jordan Peele",
+    "Ari Aster",
+    "James Wan"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

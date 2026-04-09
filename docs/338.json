@@ -1,11 +1,11 @@
 {
   "date": "day-338",
-  "question": "Who wrote Pride and Prejudice?",
+  "question": "Which Korean film features the character Oh Dae-su?",
   "choices": [
-    "Emily Bronte",
-    "Jane Austen",
-    "Mary Shelley",
-    "Virginia Woolf"
+    "Oldboy",
+    "The Handmaiden",
+    "Burning",
+    "Parasite"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

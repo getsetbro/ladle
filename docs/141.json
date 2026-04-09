@@ -1,11 +1,11 @@
 {
   "date": "day-141",
-  "question": "How many bones does an adult human body typically have?",
+  "question": "Which movie won Best Picture at the 2021 Oscars ceremony?",
   "choices": [
-    "198",
-    "206",
-    "214",
-    "222"
+    "Nomadland",
+    "Mank",
+    "Promising Young Woman",
+    "The Father"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

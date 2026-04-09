@@ -1,11 +1,11 @@
 {
   "date": "day-288",
-  "question": "What is 5 + 3?",
+  "question": "Who directed No Country for Old Men (2007)?",
   "choices": [
-    "10",
-    "7",
-    "8",
-    "9"
+    "The Coen Brothers",
+    "Paul Thomas Anderson",
+    "David Fincher",
+    "Clint Eastwood"
   ],
-  "correctIndex": 2
+  "correctIndex": 0
 }

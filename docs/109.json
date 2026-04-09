@@ -1,11 +1,11 @@
 {
-  "date": "109",
-  "question": "Which Pixar movie is set inside a young girl's emotions?",
+  "date": "day-109",
+  "question": "Who directed The Master (2012)?",
   "choices": [
-    "Soul",
-    "Luca",
-    "Inside Out",
-    "Turning Red"
+    "David O. Russell",
+    "Todd Haynes",
+    "Bennett Miller",
+    "Paul Thomas Anderson"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

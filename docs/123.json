@@ -1,11 +1,11 @@
 {
-  "date": "123",
-  "question": "Who is Elsa's sister in Frozen?",
+  "date": "day-123",
+  "question": "Who directed Arrival (2016)?",
   "choices": [
-    "Moana",
-    "Rapunzel",
-    "Anna",
-    "Merida"
+    "Ridley Scott",
+    "Denis Villeneuve",
+    "Alex Garland",
+    "Christopher Nolan"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-363",
-  "question": "In tennis, what is the score term for zero?",
+  "question": "Who directed Mulholland Drive (2001)?",
   "choices": [
-    "Nil",
-    "Love",
-    "Blank",
-    "Duck"
+    "David Cronenberg",
+    "David Lynch",
+    "Brian De Palma",
+    "Darren Aronofsky"
   ],
   "correctIndex": 1
 }

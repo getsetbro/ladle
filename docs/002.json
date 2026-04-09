@@ -1,11 +1,11 @@
 {
-  "date": "002",
-  "question": "Which element has the chemical symbol O?",
+  "date": "day-002",
+  "question": "Which film won the Palme d'Or in 2019?",
   "choices": [
-    "Gold",
-    "Oxygen",
-    "Osmium",
-    "Iron"
+    "Pain and Glory",
+    "Atlantics",
+    "Portrait of a Lady on Fire",
+    "Parasite"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

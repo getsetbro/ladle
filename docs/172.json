@@ -1,11 +1,11 @@
 {
   "date": "day-172",
-  "question": "What is 5 x 7?",
+  "question": "Who directed The Master (2012)?",
   "choices": [
-    "35",
-    "30",
-    "40",
-    "42"
+    "Paul Thomas Anderson",
+    "David O. Russell",
+    "Todd Haynes",
+    "Bennett Miller"
   ],
   "correctIndex": 0
 }

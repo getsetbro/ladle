@@ -1,11 +1,11 @@
 {
-  "date": "101",
-  "question": "Which movie features the quote I'll be back?",
+  "date": "day-101",
+  "question": "Who directed Inception (2010)?",
   "choices": [
-    "RoboCop",
-    "The Terminator",
-    "Predator",
-    "Die Hard"
+    "Denis Villeneuve",
+    "Darren Aronofsky",
+    "David Fincher",
+    "Christopher Nolan"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

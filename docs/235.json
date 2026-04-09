@@ -1,11 +1,11 @@
 {
   "date": "day-235",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Who directed The Master (2012)?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Bennett Miller",
+    "Paul Thomas Anderson",
+    "David O. Russell",
+    "Todd Haynes"
   ],
   "correctIndex": 1
 }

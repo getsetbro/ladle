@@ -1,11 +1,11 @@
 {
-  "date": "006",
-  "question": "Which ocean is the largest by surface area?",
+  "date": "day-006",
+  "question": "Who directed In the Mood for Love (2000)?",
   "choices": [
-    "Atlantic Ocean",
-    "Indian Ocean",
-    "Arctic Ocean",
-    "Pacific Ocean"
+    "Hou Hsiao-hsien",
+    "Apichatpong Weerasethakul",
+    "Edward Yang",
+    "Wong Kar-wai"
   ],
   "correctIndex": 3
 }

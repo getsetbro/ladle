@@ -1,11 +1,11 @@
 {
   "date": "day-302",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Who directed Heat (1995)?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Brian De Palma",
+    "Kathryn Bigelow",
+    "Michael Mann",
+    "Tony Scott"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

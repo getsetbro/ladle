@@ -1,11 +1,11 @@
 {
   "date": "day-261",
-  "question": "What is 8 + 9?",
+  "question": "Who directed The Handmaiden (2016)?",
   "choices": [
-    "17",
-    "18",
-    "16",
-    "19"
+    "Park Chan-wook",
+    "Kim Ki-duk",
+    "Hong Sang-soo",
+    "Bong Joon-ho"
   ],
   "correctIndex": 0
 }

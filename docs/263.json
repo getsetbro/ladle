@@ -1,11 +1,11 @@
 {
   "date": "day-263",
-  "question": "Which planet is number 8 from the Sun?",
+  "question": "Who directed Zodiac (2007)?",
   "choices": [
-    "Jupiter",
-    "Neptune",
-    "Saturn",
-    "Earth"
+    "Steven Soderbergh",
+    "David Fincher",
+    "Michael Mann",
+    "Denis Villeneuve"
   ],
   "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-190",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Who directed Memories of Murder (2003)?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Lee Chang-dong",
+    "Kim Jee-woon",
+    "Park Chan-wook",
+    "Bong Joon-ho"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

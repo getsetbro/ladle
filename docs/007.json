@@ -1,11 +1,11 @@
 {
-  "date": "007",
-  "question": "What gas do plants absorb from the atmosphere for photosynthesis?",
+  "date": "day-007",
+  "question": "Which film won Best Picture at the 2020 Oscars ceremony?",
   "choices": [
-    "Oxygen",
-    "Nitrogen",
-    "Carbon dioxide",
-    "Helium"
+    "Ford v Ferrari",
+    "1917",
+    "Parasite",
+    "Joker"
   ],
   "correctIndex": 2
 }

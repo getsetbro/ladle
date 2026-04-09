@@ -1,11 +1,11 @@
 {
-  "date": "129",
-  "question": "Which character is the archaeologist hero with a whip and fedora?",
+  "date": "day-129",
+  "question": "Who edited Mad Max: Fury Road (2015), winning the Oscar?",
   "choices": [
-    "Rick O'Connell",
-    "Nathan Drake",
-    "Indiana Jones",
-    "Allan Quatermain"
+    "Thelma Schoonmaker",
+    "Claire Simpson",
+    "Sally Menke",
+    "Margaret Sixel"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

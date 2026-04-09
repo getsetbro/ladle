@@ -1,11 +1,11 @@
 {
-  "date": "012",
-  "question": "What is the smallest prime number?",
+  "date": "day-012",
+  "question": "Which 2018 film won the Palme d'Or at Cannes?",
   "choices": [
-    "0",
-    "1",
-    "2",
-    "3"
+    "Burning",
+    "Roma",
+    "Shoplifters",
+    "Titane"
   ],
   "correctIndex": 2
 }

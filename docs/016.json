@@ -1,11 +1,11 @@
 {
-  "date": "016",
-  "question": "Which blood type is known as the universal donor for red blood cells?",
+  "date": "day-016",
+  "question": "Who directed Drive My Car (2021)?",
   "choices": [
-    "AB positive",
-    "O negative",
-    "A positive",
-    "B negative"
+    "Kore-eda Hirokazu",
+    "Ryusuke Hamaguchi",
+    "Takashi Miike",
+    "Naomi Kawase"
   ],
   "correctIndex": 1
 }

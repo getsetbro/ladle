@@ -1,11 +1,11 @@
 {
   "date": "day-156",
-  "question": "Who wrote 1984?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "David Fincher",
+    "Ben Affleck",
+    "Denis Villeneuve",
+    "Todd Phillips"
   ],
   "correctIndex": 0
 }

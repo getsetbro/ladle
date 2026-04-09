@@ -1,11 +1,11 @@
 {
   "date": "day-176",
-  "question": "In tennis, what is the score term for zero?",
+  "question": "Who directed Heat (1995)?",
   "choices": [
-    "Nil",
-    "Love",
-    "Blank",
-    "Duck"
+    "Michael Mann",
+    "Tony Scott",
+    "Brian De Palma",
+    "Kathryn Bigelow"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

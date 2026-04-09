@@ -1,11 +1,11 @@
 {
-  "date": "104",
-  "question": "What fictional metal powers much of Wakanda's technology in Black Panther?",
+  "date": "day-104",
+  "question": "Which 2023 film won the Palme d'Or?",
   "choices": [
-    "Adamantium",
-    "Unobtainium",
-    "Vibranium",
-    "Mithril"
+    "Anatomy of a Fall",
+    "Perfect Days",
+    "Fallen Leaves",
+    "The Zone of Interest"
   ],
-  "correctIndex": 2
+  "correctIndex": 0
 }

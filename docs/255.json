@@ -1,11 +1,11 @@
 {
   "date": "day-255",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Who edited Mad Max: Fury Road (2015), winning the Oscar?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "Sally Menke",
+    "Margaret Sixel",
+    "Thelma Schoonmaker",
+    "Claire Simpson"
   ],
   "correctIndex": 1
 }

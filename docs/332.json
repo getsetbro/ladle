@@ -1,11 +1,11 @@
 {
   "date": "day-332",
-  "question": "The Great Wall is primarily associated with which country?",
+  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
   "choices": [
-    "Japan",
-    "China",
-    "India",
-    "Mongolia"
+    "The Banshees of Inisherin",
+    "Everything Everywhere All at Once",
+    "All Quiet on the Western Front",
+    "TAR"
   ],
   "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-267",
-  "question": "Which part of the cell contains genetic material?",
+  "question": "Which movie won Best Picture at the 2021 Oscars ceremony?",
   "choices": [
-    "Cell wall",
-    "Mitochondria",
-    "Nucleus",
-    "Ribosome"
+    "Promising Young Woman",
+    "The Father",
+    "Nomadland",
+    "Mank"
   ],
   "correctIndex": 2
 }

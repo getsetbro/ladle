@@ -1,11 +1,11 @@
 {
   "date": "day-328",
-  "question": "What is the Roman numeral for 1000?",
+  "question": "Who directed Phantom Thread (2017)?",
   "choices": [
-    "D",
-    "X",
-    "L",
-    "M"
+    "Paul Thomas Anderson",
+    "Todd Haynes",
+    "Luca Guadagnino",
+    "Noah Baumbach"
   ],
-  "correctIndex": 3
+  "correctIndex": 0
 }

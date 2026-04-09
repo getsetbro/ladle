@@ -1,11 +1,11 @@
 {
   "date": "day-070",
-  "question": "What is the capital city of Canada?",
+  "question": "Which film won Best Picture at the 2020 Oscars ceremony?",
   "choices": [
-    "Toronto",
-    "Ottawa",
-    "Vancouver",
-    "Montreal"
+    "Joker",
+    "Ford v Ferrari",
+    "1917",
+    "Parasite"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

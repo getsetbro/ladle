@@ -1,11 +1,11 @@
 {
-  "date": "011",
-  "question": "Who painted the Mona Lisa?",
+  "date": "day-011",
+  "question": "Who directed Zodiac (2007)?",
   "choices": [
-    "Vincent van Gogh",
-    "Pablo Picasso",
-    "Leonardo da Vinci",
-    "Claude Monet"
+    "Steven Soderbergh",
+    "David Fincher",
+    "Michael Mann",
+    "Denis Villeneuve"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

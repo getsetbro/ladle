@@ -1,11 +1,11 @@
 {
-  "date": "102",
-  "question": "Parasite, which won Best Picture in 2020, is from which country?",
+  "date": "day-102",
+  "question": "Which film won Best Picture at the 2008 Oscars ceremony?",
   "choices": [
-    "Japan",
-    "South Korea",
-    "China",
-    "Thailand"
+    "No Country for Old Men",
+    "There Will Be Blood",
+    "Juno",
+    "Atonement"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

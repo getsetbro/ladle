@@ -1,11 +1,11 @@
 {
   "date": "day-060",
-  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "question": "Who directed Arrival (2016)?",
   "choices": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "White"
+    "Denis Villeneuve",
+    "Alex Garland",
+    "Christopher Nolan",
+    "Ridley Scott"
   ],
-  "correctIndex": 2
+  "correctIndex": 0
 }

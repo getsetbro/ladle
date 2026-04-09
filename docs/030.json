@@ -1,11 +1,11 @@
 {
-  "date": "030",
-  "question": "Which part of a plant typically conducts photosynthesis?",
+  "date": "day-030",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "Roots",
-    "Stem",
-    "Leaves",
-    "Flowers"
+    "Denis Villeneuve",
+    "Todd Phillips",
+    "David Fincher",
+    "Ben Affleck"
   ],
   "correctIndex": 2
 }

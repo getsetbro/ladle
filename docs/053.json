@@ -1,11 +1,11 @@
 {
   "date": "day-053",
-  "question": "In which year did World War II end?",
+  "question": "Which film won Best Picture at the 2019 Oscars ceremony?",
   "choices": [
-    "1943",
-    "1945",
-    "1947",
-    "1950"
+    "Green Book",
+    "Black Panther",
+    "Vice",
+    "Roma"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

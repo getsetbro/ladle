@@ -1,11 +1,11 @@
 {
   "date": "day-342",
-  "question": "What is 14 + 3?",
+  "question": "Which 2019 film stars Adam Sandler as Howard Ratner?",
   "choices": [
-    "18",
-    "16",
-    "17",
-    "19"
+    "Good Time",
+    "Punch-Drunk Love",
+    "The Meyerowitz Stories",
+    "Uncut Gems"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

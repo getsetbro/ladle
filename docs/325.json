@@ -1,11 +1,11 @@
 {
   "date": "day-325",
-  "question": "Who wrote 1984?",
+  "question": "Which film won Best Picture at the 2017 Oscars?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "Moonlight",
+    "Arrival",
+    "Manchester by the Sea",
+    "La La Land"
   ],
   "correctIndex": 0
 }

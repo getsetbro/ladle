@@ -1,11 +1,11 @@
 {
   "date": "day-240",
-  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "question": "Which film won Best Picture at the 2007 Oscars ceremony?",
   "choices": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "White"
+    "Babel",
+    "The Departed",
+    "Letters from Iwo Jima",
+    "Little Miss Sunshine"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

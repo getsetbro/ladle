@@ -1,11 +1,11 @@
 {
   "date": "day-073",
-  "question": "What is 6 x 4?",
+  "question": "Which film won Best Picture at the 2017 Oscars?",
   "choices": [
-    "18",
-    "24",
-    "30",
-    "28"
+    "Moonlight",
+    "Arrival",
+    "Manchester by the Sea",
+    "La La Land"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

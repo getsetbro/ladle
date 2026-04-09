@@ -1,11 +1,11 @@
 {
   "date": "day-146",
-  "question": "Which planet is number 3 from the Sun?",
+  "question": "Who shot Dune (2021) as cinematographer?",
   "choices": [
-    "Saturn",
-    "Earth",
-    "Uranus",
-    "Venus"
+    "Linus Sandgren",
+    "Dan Laustsen",
+    "Greig Fraser",
+    "Roger Deakins"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

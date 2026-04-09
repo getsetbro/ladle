@@ -1,11 +1,11 @@
 {
-  "date": "018",
-  "question": "What is the longest river in the world, according to the most common textbook answer?",
+  "date": "day-018",
+  "question": "Who directed The Social Network (2010)?",
   "choices": [
-    "Amazon River",
-    "Nile River",
-    "Yangtze River",
-    "Mississippi River"
+    "Aaron Sorkin",
+    "Bennett Miller",
+    "David Fincher",
+    "Danny Boyle"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

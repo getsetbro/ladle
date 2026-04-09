@@ -1,11 +1,11 @@
 {
   "date": "day-077",
-  "question": "How many players are on the court per team in basketball?",
+  "question": "Who plays Lydia Tar in TAR (2022)?",
   "choices": [
-    "4",
-    "5",
-    "6",
-    "7"
+    "Julianne Moore",
+    "Tilda Swinton",
+    "Olivia Colman",
+    "Cate Blanchett"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

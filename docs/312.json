@@ -1,11 +1,11 @@
 {
   "date": "day-312",
-  "question": "Who wrote 1984?",
+  "question": "Who directed Arrival (2016)?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "Denis Villeneuve",
+    "Alex Garland",
+    "Christopher Nolan",
+    "Ridley Scott"
   ],
   "correctIndex": 0
 }

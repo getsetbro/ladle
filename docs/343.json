@@ -1,11 +1,11 @@
 {
   "date": "day-343",
-  "question": "What is the capital city of Canada?",
+  "question": "Who directed Roma (2018)?",
   "choices": [
-    "Toronto",
-    "Ottawa",
-    "Vancouver",
-    "Montreal"
+    "Carlos Reygadas",
+    "Alejandro G. Inarritu",
+    "Alfonso Cuaron",
+    "Guillermo del Toro"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

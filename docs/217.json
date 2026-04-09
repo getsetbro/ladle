@@ -1,11 +1,11 @@
 {
   "date": "day-217",
-  "question": "Mount Kilimanjaro is located in which country?",
+  "question": "Who directed Roma (2018)?",
   "choices": [
-    "Kenya",
-    "Tanzania",
-    "Uganda",
-    "Ethiopia"
+    "Alfonso Cuaron",
+    "Guillermo del Toro",
+    "Carlos Reygadas",
+    "Alejandro G. Inarritu"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

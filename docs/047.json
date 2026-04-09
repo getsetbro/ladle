@@ -1,11 +1,11 @@
 {
   "date": "day-047",
-  "question": "Which planet is number 8 from the Sun?",
+  "question": "Which film won Best Picture at the 2005 Oscars ceremony?",
   "choices": [
-    "Mercury",
-    "Neptune",
-    "Mars",
-    "Uranus"
+    "Ray",
+    "The Aviator",
+    "Million Dollar Baby",
+    "Sideways"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

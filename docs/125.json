@@ -1,11 +1,11 @@
 {
-  "date": "125",
-  "question": "Who directed Inception?",
+  "date": "day-125",
+  "question": "Who directed Eternal Sunshine of the Spotless Mind (2004)?",
   "choices": [
-    "Denis Villeneuve",
-    "Christopher Nolan",
-    "James Wan",
-    "Peter Jackson"
+    "Charlie Kaufman",
+    "Spike Jonze",
+    "David O. Russell",
+    "Michel Gondry"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

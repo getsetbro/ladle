@@ -1,11 +1,11 @@
 {
   "date": "day-050",
-  "question": "Which movie features the character Marty McFly?",
+  "question": "Who directed Heat (1995)?",
   "choices": [
-    "The Goonies",
-    "Back to the Future",
-    "Ferris Bueller's Day Off",
-    "Gremlins"
+    "Brian De Palma",
+    "Kathryn Bigelow",
+    "Michael Mann",
+    "Tony Scott"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

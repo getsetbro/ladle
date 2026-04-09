@@ -1,11 +1,11 @@
 {
   "date": "day-071",
-  "question": "Which ancient civilization built Machu Picchu?",
+  "question": "Who composed the score for Oppenheimer (2023)?",
   "choices": [
-    "Maya",
-    "Aztec",
-    "Inca",
-    "Olmec"
+    "Nicholas Britell",
+    "Hans Zimmer",
+    "Ludwig Goransson",
+    "Hildur Gudnadottir"
   ],
   "correctIndex": 2
 }

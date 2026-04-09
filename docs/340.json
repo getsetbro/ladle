@@ -1,11 +1,11 @@
 {
   "date": "day-340",
-  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "question": "Which film won Best Picture at the 2010 Oscars ceremony?",
   "choices": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "White"
+    "Avatar",
+    "The Hurt Locker",
+    "Inglourious Basterds",
+    "Up in the Air"
   ],
-  "correctIndex": 2
+  "correctIndex": 1
 }

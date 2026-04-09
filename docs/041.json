@@ -1,11 +1,11 @@
 {
   "date": "day-041",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Which 2023 film won the Palme d'Or?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Perfect Days",
+    "Fallen Leaves",
+    "The Zone of Interest",
+    "Anatomy of a Fall"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

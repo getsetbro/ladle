@@ -1,11 +1,11 @@
 {
   "date": "day-089",
-  "question": "In which year did World War II end?",
+  "question": "Who directed Whiplash (2014)?",
   "choices": [
-    "1943",
-    "1945",
-    "1947",
-    "1950"
+    "Derek Cianfrance",
+    "Sam Mendes",
+    "Richard Linklater",
+    "Damien Chazelle"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-282",
-  "question": "Which continent contains the largest land area among these options?",
+  "question": "Who directed Gone Girl (2014)?",
   "choices": [
-    "North America",
-    "Antarctica",
-    "South America",
-    "Asia"
+    "Denis Villeneuve",
+    "Todd Phillips",
+    "David Fincher",
+    "Ben Affleck"
   ],
-  "correctIndex": 3
+  "correctIndex": 2
 }

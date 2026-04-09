@@ -1,11 +1,11 @@
 {
-  "date": "022",
-  "question": "How many degrees are in a right angle?",
+  "date": "day-022",
+  "question": "Who directed A Separation (2011)?",
   "choices": [
-    "45",
-    "90",
-    "180",
-    "360"
+    "Abbas Kiarostami",
+    "Jafar Panahi",
+    "Asghar Farhadi",
+    "Majid Majidi"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

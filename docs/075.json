@@ -1,11 +1,11 @@
 {
   "date": "day-075",
-  "question": "Which movie features the character Marty McFly?",
+  "question": "Which 2018 film won the Palme d'Or at Cannes?",
   "choices": [
-    "The Goonies",
-    "Back to the Future",
-    "Ferris Bueller's Day Off",
-    "Gremlins"
+    "Titane",
+    "Burning",
+    "Roma",
+    "Shoplifters"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

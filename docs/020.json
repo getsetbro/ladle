@@ -1,11 +1,11 @@
 {
-  "date": "020",
-  "question": "What is the primary language used for iOS app development with SwiftUI?",
+  "date": "day-020",
+  "question": "Who shot Dune (2021) as cinematographer?",
   "choices": [
-    "Objective-C",
-    "Swift",
-    "Kotlin",
-    "Java"
+    "Greig Fraser",
+    "Roger Deakins",
+    "Linus Sandgren",
+    "Dan Laustsen"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

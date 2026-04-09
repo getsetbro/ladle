@@ -1,11 +1,11 @@
 {
   "date": "day-251",
-  "question": "The Great Wall is primarily associated with which country?",
+  "question": "Who directed Eternal Sunshine of the Spotless Mind (2004)?",
   "choices": [
-    "Japan",
-    "China",
-    "India",
-    "Mongolia"
+    "David O. Russell",
+    "Michel Gondry",
+    "Charlie Kaufman",
+    "Spike Jonze"
   ],
   "correctIndex": 1
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-038",
-  "question": "Which planet is number 7 from the Sun?",
+  "question": "Who directed Inception (2010)?",
   "choices": [
-    "Neptune",
-    "Venus",
-    "Jupiter",
-    "Uranus"
+    "Darren Aronofsky",
+    "David Fincher",
+    "Christopher Nolan",
+    "Denis Villeneuve"
   ],
-  "correctIndex": 3
+  "correctIndex": 2
 }

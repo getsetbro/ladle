@@ -1,11 +1,11 @@
 {
   "date": "day-074",
-  "question": "Which planet is number 3 from the Sun?",
+  "question": "Who directed Zodiac (2007)?",
   "choices": [
-    "Venus",
-    "Uranus",
-    "Earth",
-    "Saturn"
+    "Denis Villeneuve",
+    "Steven Soderbergh",
+    "David Fincher",
+    "Michael Mann"
   ],
   "correctIndex": 2
 }

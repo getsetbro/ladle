@@ -1,11 +1,11 @@
 {
   "date": "day-039",
-  "question": "Which character says To be, or not to be?",
+  "question": "Which film won Best Picture at the 2008 Oscars ceremony?",
   "choices": [
-    "Macbeth",
-    "Hamlet",
-    "Othello",
-    "Lear"
+    "There Will Be Blood",
+    "Juno",
+    "Atonement",
+    "No Country for Old Men"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

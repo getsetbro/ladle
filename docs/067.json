@@ -1,11 +1,11 @@
 {
   "date": "day-067",
-  "question": "What is the Roman numeral for 100?",
+  "question": "Who shot There Will Be Blood (2007) as cinematographer?",
   "choices": [
-    "X",
-    "V",
-    "I",
-    "C"
+    "Hoyte van Hoytema",
+    "Robert Elswit",
+    "Roger Deakins",
+    "Emmanuel Lubezki"
   ],
-  "correctIndex": 3
+  "correctIndex": 1
 }

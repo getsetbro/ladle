@@ -1,11 +1,11 @@
 {
   "date": "day-080",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "The Banshees of Inisherin",
+    "Everything Everywhere All at Once",
+    "All Quiet on the Western Front",
+    "TAR"
   ],
   "correctIndex": 1
 }

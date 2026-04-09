@@ -1,11 +1,11 @@
 {
   "date": "day-350",
-  "question": "Mount Kilimanjaro is located in which country?",
+  "question": "Which film won the Palme d'Or in 2021?",
   "choices": [
-    "Kenya",
-    "Tanzania",
-    "Uganda",
-    "Ethiopia"
+    "Compartment No. 6",
+    "A Hero",
+    "Drive My Car",
+    "Titane"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

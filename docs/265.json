@@ -1,11 +1,11 @@
 {
   "date": "day-265",
-  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "question": "Who directed Phantom Thread (2017)?",
   "choices": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "White"
+    "Todd Haynes",
+    "Luca Guadagnino",
+    "Noah Baumbach",
+    "Paul Thomas Anderson"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

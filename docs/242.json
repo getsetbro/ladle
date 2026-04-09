@@ -1,11 +1,11 @@
 {
   "date": "day-242",
-  "question": "In tennis, what is the score term for zero?",
+  "question": "Which film won Best Picture at the 2019 Oscars ceremony?",
   "choices": [
-    "Nil",
-    "Love",
-    "Blank",
-    "Duck"
+    "Black Panther",
+    "Vice",
+    "Roma",
+    "Green Book"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

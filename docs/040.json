@@ -1,11 +1,11 @@
 {
   "date": "day-040",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Who directed Blade Runner 2049 (2017)?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "Ridley Scott",
+    "Denis Villeneuve",
+    "Alex Garland",
+    "Christopher Nolan"
   ],
   "correctIndex": 1
 }

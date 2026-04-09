@@ -1,11 +1,11 @@
 {
   "date": "day-174",
-  "question": "Which continent contains the largest land area among these options?",
+  "question": "Who directed Mulholland Drive (2001)?",
   "choices": [
-    "Africa",
-    "North America",
-    "Antarctica",
-    "South America"
+    "Darren Aronofsky",
+    "David Cronenberg",
+    "David Lynch",
+    "Brian De Palma"
   ],
-  "correctIndex": 3
+  "correctIndex": 2
 }

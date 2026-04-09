@@ -1,11 +1,11 @@
 {
   "date": "day-247",
-  "question": "Who wrote 1984?",
+  "question": "Who directed La La Land (2016)?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "Ryan Coogler",
+    "Damien Chazelle",
+    "Baz Luhrmann",
+    "Tom Hooper"
   ],
-  "correctIndex": 0
+  "correctIndex": 1
 }

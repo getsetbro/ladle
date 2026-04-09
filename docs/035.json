@@ -1,11 +1,11 @@
 {
   "date": "day-035",
-  "question": "Which river flows through Egypt?",
+  "question": "Which film won the Palme d'Or in 2021?",
   "choices": [
-    "Amazon",
-    "Yangtze",
-    "Nile",
-    "Danube"
+    "A Hero",
+    "Drive My Car",
+    "Titane",
+    "Compartment No. 6"
   ],
   "correctIndex": 2
 }

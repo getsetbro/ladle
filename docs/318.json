@@ -1,11 +1,11 @@
 {
   "date": "day-318",
-  "question": "Which continent contains the largest land area among these options?",
+  "question": "Who edited Mad Max: Fury Road (2015), winning the Oscar?",
   "choices": [
-    "Europe",
-    "Australia",
-    "North America",
-    "Asia"
+    "Claire Simpson",
+    "Sally Menke",
+    "Margaret Sixel",
+    "Thelma Schoonmaker"
   ],
-  "correctIndex": 3
+  "correctIndex": 2
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-260",
-  "question": "Who wrote 1984?",
+  "question": "Who composed the score for Oppenheimer (2023)?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "Hans Zimmer",
+    "Ludwig Goransson",
+    "Hildur Gudnadottir",
+    "Nicholas Britell"
   ],
-  "correctIndex": 0
+  "correctIndex": 1
 }

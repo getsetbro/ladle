@@ -1,11 +1,11 @@
 {
-  "date": "019",
-  "question": "Which metal is liquid at room temperature?",
+  "date": "day-019",
+  "question": "Which film won Best Director for Bong Joon-ho?",
   "choices": [
-    "Mercury",
-    "Aluminum",
-    "Copper",
-    "Silver"
+    "The Host",
+    "Memories of Murder",
+    "Parasite",
+    "Mother"
   ],
-  "correctIndex": 0
+  "correctIndex": 2
 }

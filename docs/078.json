@@ -1,11 +1,11 @@
 {
   "date": "day-078",
-  "question": "Who wrote 1984?",
+  "question": "Which movie won Best Picture at the 2021 Oscars ceremony?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "Mank",
+    "Promising Young Woman",
+    "The Father",
+    "Nomadland"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

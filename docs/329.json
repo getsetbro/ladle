@@ -1,11 +1,11 @@
 {
   "date": "day-329",
-  "question": "Which river flows through Egypt?",
+  "question": "Who plays Lydia Tar in TAR (2022)?",
   "choices": [
-    "Amazon",
-    "Yangtze",
-    "Nile",
-    "Danube"
+    "Julianne Moore",
+    "Tilda Swinton",
+    "Olivia Colman",
+    "Cate Blanchett"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

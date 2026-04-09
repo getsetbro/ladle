@@ -1,11 +1,11 @@
 {
   "date": "day-152",
-  "question": "Who was the first President of the United States?",
+  "question": "Who directed Whiplash (2014)?",
   "choices": [
-    "Thomas Jefferson",
-    "George Washington",
-    "John Adams",
-    "James Madison"
+    "Damien Chazelle",
+    "Derek Cianfrance",
+    "Sam Mendes",
+    "Richard Linklater"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-254",
-  "question": "Which planet is number 7 from the Sun?",
+  "question": "Which film won the Palme d'Or in 2019?",
   "choices": [
-    "Uranus",
-    "Jupiter",
-    "Mars",
-    "Venus"
+    "Pain and Glory",
+    "Atlantics",
+    "Portrait of a Lady on Fire",
+    "Parasite"
   ],
-  "correctIndex": 0
+  "correctIndex": 3
 }

@@ -1,11 +1,11 @@
 {
   "date": "day-221",
-  "question": "Who wrote 1984?",
+  "question": "Who directed The Banshees of Inisherin (2022)?",
   "choices": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "Jules Verne"
+    "Martin McDonagh",
+    "John Michael McDonagh",
+    "Sam Mendes",
+    "Yorgos Lanthimos"
   ],
   "correctIndex": 0
 }

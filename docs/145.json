@@ -1,11 +1,11 @@
 {
   "date": "day-145",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Which film won Best Director for Bong Joon-ho?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "Parasite",
+    "Mother",
+    "The Host",
+    "Memories of Murder"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

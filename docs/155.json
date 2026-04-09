@@ -1,11 +1,11 @@
 {
   "date": "day-155",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Which film won Best International Feature at the 2022 Oscars?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "The Worst Person in the World",
+    "Flee",
+    "The Hand of God",
+    "Drive My Car"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

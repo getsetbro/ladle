@@ -1,11 +1,11 @@
 {
-  "date": "023",
-  "question": "Which continent is the Sahara Desert located on?",
+  "date": "day-023",
+  "question": "Which Korean film features the character Oh Dae-su?",
   "choices": [
-    "Asia",
-    "Africa",
-    "Australia",
-    "South America"
+    "The Handmaiden",
+    "Burning",
+    "Parasite",
+    "Oldboy"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

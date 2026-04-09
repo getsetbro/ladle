@@ -1,11 +1,11 @@
 {
   "date": "day-064",
-  "question": "What is 7 x 5?",
+  "question": "Who directed Memories of Murder (2003)?",
   "choices": [
-    "28",
-    "35",
-    "40",
-    "42"
+    "Park Chan-wook",
+    "Bong Joon-ho",
+    "Lee Chang-dong",
+    "Kim Jee-woon"
   ],
   "correctIndex": 1
 }

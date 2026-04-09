@@ -1,11 +1,11 @@
 {
   "date": "day-285",
-  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "question": "Which movie won Best Picture at the 2016 Oscars ceremony?",
   "choices": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "White"
+    "Spotlight",
+    "Mad Max: Fury Road",
+    "The Big Short",
+    "The Revenant"
   ],
-  "correctIndex": 2
+  "correctIndex": 0
 }

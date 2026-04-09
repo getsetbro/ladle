@@ -1,11 +1,11 @@
 {
   "date": "day-082",
-  "question": "What is 5 x 3?",
+  "question": "Which film won Best Director for Bong Joon-ho?",
   "choices": [
-    "20",
-    "10",
-    "18",
-    "15"
+    "Mother",
+    "The Host",
+    "Memories of Murder",
+    "Parasite"
   ],
   "correctIndex": 3
 }

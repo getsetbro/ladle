@@ -1,11 +1,11 @@
 {
   "date": "day-239",
-  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "question": "Who directed Heat (1995)?",
   "choices": [
-    "George Lucas",
-    "Steven Spielberg",
-    "James Cameron",
-    "Robert Zemeckis"
+    "Kathryn Bigelow",
+    "Michael Mann",
+    "Tony Scott",
+    "Brian De Palma"
   ],
   "correctIndex": 1
 }

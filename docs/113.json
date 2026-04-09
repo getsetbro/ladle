@@ -1,11 +1,11 @@
 {
-  "date": "113",
-  "question": "Ghostbusters is primarily set in which city?",
+  "date": "day-113",
+  "question": "Who directed Heat (1995)?",
   "choices": [
-    "Chicago",
-    "Los Angeles",
-    "New York City",
-    "Boston"
+    "Tony Scott",
+    "Brian De Palma",
+    "Kathryn Bigelow",
+    "Michael Mann"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }

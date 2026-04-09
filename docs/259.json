@@ -1,11 +1,11 @@
 {
   "date": "day-259",
-  "question": "Mount Kilimanjaro is located in which country?",
+  "question": "Which film won Best Picture at the 2020 Oscars ceremony?",
   "choices": [
-    "Kenya",
-    "Tanzania",
-    "Uganda",
-    "Ethiopia"
+    "Ford v Ferrari",
+    "1917",
+    "Parasite",
+    "Joker"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

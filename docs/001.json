@@ -1,11 +1,11 @@
 {
-  "date": "001",
-  "question": "What is the largest planet in our solar system?",
+  "date": "day-001",
+  "question": "Who directed Memories of Murder (2003)?",
   "choices": [
-    "Earth",
-    "Mars",
-    "Jupiter",
-    "Saturn"
+    "Bong Joon-ho",
+    "Lee Chang-dong",
+    "Kim Jee-woon",
+    "Park Chan-wook"
   ],
-  "correctIndex": 2
+  "correctIndex": 0
 }

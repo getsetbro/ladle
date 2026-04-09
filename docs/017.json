@@ -1,11 +1,11 @@
 {
-  "date": "017",
-  "question": "In computing, what does CPU stand for?",
+  "date": "day-017",
+  "question": "Which film won Best Picture at the 2023 Oscars ceremony?",
   "choices": [
-    "Central Process Unit",
-    "Central Processing Unit",
-    "Computer Personal Unit",
-    "Control Processing Utility"
+    "Everything Everywhere All at Once",
+    "All Quiet on the Western Front",
+    "TAR",
+    "The Banshees of Inisherin"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

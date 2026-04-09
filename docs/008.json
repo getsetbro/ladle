@@ -1,11 +1,11 @@
 {
-  "date": "008",
-  "question": "Which language is primarily spoken in Brazil?",
+  "date": "day-008",
+  "question": "Who composed the score for Oppenheimer (2023)?",
   "choices": [
-    "Spanish",
-    "Portuguese",
-    "French",
-    "Italian"
+    "Hans Zimmer",
+    "Ludwig Goransson",
+    "Hildur Gudnadottir",
+    "Nicholas Britell"
   ],
   "correctIndex": 1
 }

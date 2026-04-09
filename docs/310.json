@@ -1,11 +1,11 @@
 {
   "date": "day-310",
-  "question": "Which actor played Iron Man in the MCU?",
+  "question": "Who directed La La Land (2016)?",
   "choices": [
-    "Chris Evans",
-    "Chris Hemsworth",
-    "Robert Downey Jr.",
-    "Mark Ruffalo"
+    "Tom Hooper",
+    "Ryan Coogler",
+    "Damien Chazelle",
+    "Baz Luhrmann"
   ],
   "correctIndex": 2
 }

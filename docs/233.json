@@ -1,11 +1,11 @@
 {
   "date": "day-233",
-  "question": "Who was the first President of the United States?",
+  "question": "Who directed Get Out (2017)?",
   "choices": [
-    "Thomas Jefferson",
-    "George Washington",
-    "John Adams",
-    "James Madison"
+    "Ari Aster",
+    "James Wan",
+    "Robert Eggers",
+    "Jordan Peele"
   ],
-  "correctIndex": 1
+  "correctIndex": 3
 }

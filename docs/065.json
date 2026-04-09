@@ -1,11 +1,11 @@
 {
   "date": "day-065",
-  "question": "Which character says To be, or not to be?",
+  "question": "Which film won the Palme d'Or in 2019?",
   "choices": [
-    "Macbeth",
-    "Hamlet",
-    "Othello",
-    "Lear"
+    "Parasite",
+    "Pain and Glory",
+    "Atlantics",
+    "Portrait of a Lady on Fire"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

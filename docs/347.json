@@ -1,11 +1,11 @@
 {
   "date": "day-347",
-  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "question": "Who directed The Banshees of Inisherin (2022)?",
   "choices": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "White"
+    "Sam Mendes",
+    "Yorgos Lanthimos",
+    "Martin McDonagh",
+    "John Michael McDonagh"
   ],
   "correctIndex": 2
 }

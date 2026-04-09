@@ -1,11 +1,11 @@
 {
   "date": "day-246",
-  "question": "Which continent contains the largest land area among these options?",
+  "question": "Which film won Best Picture at the 2022 Oscars ceremony?",
   "choices": [
-    "Africa",
-    "Antarctica",
-    "Europe",
-    "South America"
+    "CODA",
+    "King Richard",
+    "Belfast",
+    "Dune"
   ],
-  "correctIndex": 1
+  "correctIndex": 0
 }

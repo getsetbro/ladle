@@ -1,11 +1,11 @@
 {
   "date": "day-170",
-  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "question": "Who directed Get Out (2017)?",
   "choices": [
-    "Pulp Fiction",
-    "Forrest Gump",
-    "The Shawshank Redemption",
-    "Four Weddings and a Funeral"
+    "James Wan",
+    "Robert Eggers",
+    "Jordan Peele",
+    "Ari Aster"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

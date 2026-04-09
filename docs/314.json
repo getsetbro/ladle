@@ -1,11 +1,11 @@
 {
   "date": "day-314",
-  "question": "Which ancient civilization built Machu Picchu?",
+  "question": "Who directed Eternal Sunshine of the Spotless Mind (2004)?",
   "choices": [
-    "Maya",
-    "Aztec",
-    "Inca",
-    "Olmec"
+    "Spike Jonze",
+    "David O. Russell",
+    "Michel Gondry",
+    "Charlie Kaufman"
   ],
   "correctIndex": 2
 }

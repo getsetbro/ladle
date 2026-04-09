@@ -1,11 +1,11 @@
 {
   "date": "day-323",
-  "question": "Who was the first President of the United States?",
+  "question": "Who composed the score for Oppenheimer (2023)?",
   "choices": [
-    "Thomas Jefferson",
-    "George Washington",
-    "John Adams",
-    "James Madison"
+    "Nicholas Britell",
+    "Hans Zimmer",
+    "Ludwig Goransson",
+    "Hildur Gudnadottir"
   ],
-  "correctIndex": 1
+  "correctIndex": 2
 }

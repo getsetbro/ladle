@@ -1,11 +1,11 @@
 {
   "date": "day-341",
-  "question": "How many holes are in a standard round of golf?",
+  "question": "Who directed Whiplash (2014)?",
   "choices": [
-    "9",
-    "12",
-    "18",
-    "24"
+    "Derek Cianfrance",
+    "Sam Mendes",
+    "Richard Linklater",
+    "Damien Chazelle"
   ],
-  "correctIndex": 2
+  "correctIndex": 3
 }
