@@ -1,6 +1,11 @@
 {
-  "date": "day-100",
+  "date": "100",
   "question": "What was Disney's first full-length animated feature film?",
-  "choices": ["Fantasia", "Pinocchio", "Snow White and the Seven Dwarfs", "Bambi"],
+  "choices": [
+    "Fantasia",
+    "Pinocchio",
+    "Snow White and the Seven Dwarfs",
+    "Bambi"
+  ],
   "correctIndex": 2
 }

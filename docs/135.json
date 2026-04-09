@@ -1,6 +1,11 @@
 {
-  "date": "day-135",
+  "date": "135",
   "question": "What sport is central to Remember the Titans?",
-  "choices": ["Basketball", "Baseball", "American football", "Ice hockey"],
+  "choices": [
+    "Basketball",
+    "Baseball",
+    "American football",
+    "Ice hockey"
+  ],
   "correctIndex": 2
 }

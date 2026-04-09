@@ -1,6 +1,11 @@
 {
-  "date": "day-107",
+  "date": "107",
   "question": "What is the name of Han Solo's ship?",
-  "choices": ["Star Destroyer", "Serenity", "Millennium Falcon", "Razor Crest"],
+  "choices": [
+    "Star Destroyer",
+    "Serenity",
+    "Millennium Falcon",
+    "Razor Crest"
+  ],
   "correctIndex": 2
 }

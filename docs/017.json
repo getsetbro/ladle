@@ -1,6 +1,11 @@
 {
-  "date": "day-017",
+  "date": "017",
   "question": "In computing, what does CPU stand for?",
-  "choices": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Control Processing Utility"],
+  "choices": [
+    "Central Process Unit",
+    "Central Processing Unit",
+    "Computer Personal Unit",
+    "Control Processing Utility"
+  ],
   "correctIndex": 1
 }

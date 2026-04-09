@@ -1,6 +1,11 @@
 {
-  "date": "day-110",
+  "date": "110",
   "question": "Who played Hermione Granger in the Harry Potter films?",
-  "choices": ["Emma Stone", "Emma Watson", "Keira Knightley", "Saoirse Ronan"],
+  "choices": [
+    "Emma Stone",
+    "Emma Watson",
+    "Keira Knightley",
+    "Saoirse Ronan"
+  ],
   "correctIndex": 1
 }

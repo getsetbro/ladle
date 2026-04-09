@@ -1,6 +1,11 @@
 {
-  "date": "day-014",
+  "date": "014",
   "question": "What is the process of converting water vapor into liquid water called?",
-  "choices": ["Evaporation", "Condensation", "Sublimation", "Transpiration"],
+  "choices": [
+    "Evaporation",
+    "Condensation",
+    "Sublimation",
+    "Transpiration"
+  ],
   "correctIndex": 1
 }

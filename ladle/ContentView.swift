@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     @StateObject private var viewModel = TriviaViewModel()
     @State private var showingClearConfirmation = false
+    @State private var showingActions = false
 
     var body: some View {
         NavigationStack {
@@ -34,36 +35,28 @@ struct ContentView: View {
                 }
                 .padding()
             }
-            .navigationTitle("Todays Ladle")
-            .navigationBarTitleDisplayMode(.inline)
+            .navigationTitle("Ladle")
+            .navigationBarTitleDisplayMode(.large)
             .toolbar {
-                ToolbarItem(placement: .principal) {
-                    Text("Todays Ladle")
-                        .font(.system(size: 22, weight: .semibold, design: .serif))
-                }
-
                 ToolbarItemGroup(placement: .topBarTrailing) {
-                    if viewModel.didAnswerToday {
-                        ShareLink(item: viewModel.shareText) {
-                            Label("Share", systemImage: "square.and.arrow.up")
-                        }
+                    ShareLink(item: viewModel.shareText) {
+                        Label("Share", systemImage: "square.and.arrow.up")
                     }
+                    .disabled(!viewModel.didAnswerToday)
 
-                    Menu {
-                        Button("Reload Question") {
-                            Task {
-                                await viewModel.retryFetch()
-                            }
-                        }
-                        .disabled(viewModel.didAnswerToday)
-
-                        Button("Clear Total", role: .destructive) {
-                            showingClearConfirmation = true
-                        }
+                    Button {
+                        showingActions = true
                     } label: {
                         Label("Actions", systemImage: "ellipsis.circle")
                     }
                 }
+            }
+            .confirmationDialog("Actions", isPresented: $showingActions, titleVisibility: .visible) {
+                Button("Clear Total", role: .destructive) {
+                    showingClearConfirmation = true
+                }
+
+                Button("Cancel", role: .cancel) {}
             }
             .alert("Clear your total progress?", isPresented: $showingClearConfirmation) {
                 Button("Cancel", role: .cancel) {}
@@ -86,10 +79,10 @@ struct ContentView: View {
         VStack(alignment: .leading, spacing: 8) {
             Text("Overall Score")
                 .font(.headline)
-            Text("\(viewModel.totalCorrect)/\(viewModel.totalAnswered) correct")
-                .font(.subheadline)
             Text(viewModel.scorePercentText)
                 .font(.largeTitle.weight(.semibold))
+            Text("\(viewModel.totalCorrect)/\(viewModel.totalAnswered) correct")
+                .font(.subheadline)
         }
         .frame(maxWidth: .infinity, alignment: .leading)
         .padding()
@@ -121,11 +114,11 @@ struct ContentView: View {
 
     private func questionCard(_ question: TriviaQuestion) -> some View {
         VStack(alignment: .leading, spacing: 14) {
-            Text("Question for \(question.date)")
+            Text("Question \(question.date)")
                 .font(.headline)
 
             Text(question.question)
-                .font(.title3.weight(.medium))
+                .font(.system(size: 28, weight: .semibold, design: .serif))
 
             VStack(spacing: 10) {
                 ForEach(Array(question.choices.enumerated()), id: \.offset) { index, choice in
@@ -139,6 +132,7 @@ struct ContentView: View {
                                 .background(Color.accentColor.opacity(0.15), in: Circle())
 
                             Text(choice)
+                                .font(.system(size: 18, weight: .regular, design: .serif))
                                 .multilineTextAlignment(.leading)
                                 .fixedSize(horizontal: false, vertical: true)
 

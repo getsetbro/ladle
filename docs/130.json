@@ -1,6 +1,11 @@
 {
-  "date": "day-130",
+  "date": "130",
   "question": "Which movie famously features a time-traveling DeLorean?",
-  "choices": ["Looper", "Back to the Future", "Primer", "Tenet"],
+  "choices": [
+    "Looper",
+    "Back to the Future",
+    "Primer",
+    "Tenet"
+  ],
   "correctIndex": 1
 }

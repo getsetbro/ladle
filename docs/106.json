@@ -1,6 +1,11 @@
 {
-  "date": "day-106",
+  "date": "106",
   "question": "What was the first film in the Marvel Cinematic Universe?",
-  "choices": ["The Incredible Hulk", "Iron Man", "Thor", "Captain America: The First Avenger"],
+  "choices": [
+    "The Incredible Hulk",
+    "Iron Man",
+    "Thor",
+    "Captain America: The First Avenger"
+  ],
   "correctIndex": 1
 }

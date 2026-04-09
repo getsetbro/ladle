@@ -1,0 +1,11 @@
+{
+  "date": "day-204",
+  "question": "Which part of the cell contains genetic material?",
+  "choices": [
+    "Cell wall",
+    "Mitochondria",
+    "Nucleus",
+    "Ribosome"
+  ],
+  "correctIndex": 2
+}

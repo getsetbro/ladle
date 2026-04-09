@@ -1,6 +1,11 @@
 {
-  "date": "day-025",
+  "date": "025",
   "question": "Which organ in the human body is primarily responsible for pumping blood?",
-  "choices": ["Lungs", "Liver", "Heart", "Kidneys"],
+  "choices": [
+    "Lungs",
+    "Liver",
+    "Heart",
+    "Kidneys"
+  ],
   "correctIndex": 2
 }

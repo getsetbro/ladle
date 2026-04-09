@@ -1,0 +1,11 @@
+{
+  "date": "day-043",
+  "question": "What does RAM stand for?",
+  "choices": [
+    "Random Access Memory",
+    "Read Access Module",
+    "Rapid Array Memory",
+    "Runtime Application Memory"
+  ],
+  "correctIndex": 0
+}

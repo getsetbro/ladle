@@ -1,6 +1,11 @@
 {
-  "date": "day-118",
+  "date": "118",
   "question": "On which planet was Luke Skywalker raised?",
-  "choices": ["Naboo", "Alderaan", "Tatooine", "Hoth"],
+  "choices": [
+    "Naboo",
+    "Alderaan",
+    "Tatooine",
+    "Hoth"
+  ],
   "correctIndex": 2
 }

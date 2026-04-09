@@ -1,6 +1,11 @@
 {
-  "date": "day-009",
+  "date": "009",
   "question": "What is the freezing point of water at standard atmospheric pressure?",
-  "choices": ["0 degrees Celsius", "32 degrees Celsius", "100 degrees Celsius", "-10 degrees Celsius"],
+  "choices": [
+    "0 degrees Celsius",
+    "32 degrees Celsius",
+    "100 degrees Celsius",
+    "-10 degrees Celsius"
+  ],
   "correctIndex": 0
 }

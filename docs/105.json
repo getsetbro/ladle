@@ -1,6 +1,11 @@
 {
-  "date": "day-105",
+  "date": "105",
   "question": "What is the name of the school in the Harry Potter films?",
-  "choices": ["Beauxbatons", "Durmstrang", "Hogwarts", "Ilvermorny"],
+  "choices": [
+    "Beauxbatons",
+    "Durmstrang",
+    "Hogwarts",
+    "Ilvermorny"
+  ],
   "correctIndex": 2
 }

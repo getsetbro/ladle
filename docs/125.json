@@ -1,6 +1,11 @@
 {
-  "date": "day-125",
+  "date": "125",
   "question": "Who directed Inception?",
-  "choices": ["Denis Villeneuve", "Christopher Nolan", "James Wan", "Peter Jackson"],
+  "choices": [
+    "Denis Villeneuve",
+    "Christopher Nolan",
+    "James Wan",
+    "Peter Jackson"
+  ],
   "correctIndex": 1
 }

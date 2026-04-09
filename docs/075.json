@@ -1,0 +1,11 @@
+{
+  "date": "day-075",
+  "question": "Which movie features the character Marty McFly?",
+  "choices": [
+    "The Goonies",
+    "Back to the Future",
+    "Ferris Bueller's Day Off",
+    "Gremlins"
+  ],
+  "correctIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "date": "day-278",
+  "question": "Who was the first President of the United States?",
+  "choices": [
+    "Thomas Jefferson",
+    "George Washington",
+    "John Adams",
+    "James Madison"
+  ],
+  "correctIndex": 1
+}

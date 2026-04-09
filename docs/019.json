@@ -1,6 +1,11 @@
 {
-  "date": "day-019",
+  "date": "019",
   "question": "Which metal is liquid at room temperature?",
-  "choices": ["Mercury", "Aluminum", "Copper", "Silver"],
+  "choices": [
+    "Mercury",
+    "Aluminum",
+    "Copper",
+    "Silver"
+  ],
   "correctIndex": 0
 }

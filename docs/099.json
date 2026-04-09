@@ -1,6 +1,11 @@
 {
-  "date": "day-099",
+  "date": "099",
   "question": "Who directed the movie Jaws?",
-  "choices": ["George Lucas", "Steven Spielberg", "James Cameron", "Ridley Scott"],
+  "choices": [
+    "George Lucas",
+    "Steven Spielberg",
+    "James Cameron",
+    "Ridley Scott"
+  ],
   "correctIndex": 1
 }

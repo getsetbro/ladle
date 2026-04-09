@@ -1,6 +1,11 @@
 {
-  "date": "day-030",
+  "date": "030",
   "question": "Which part of a plant typically conducts photosynthesis?",
-  "choices": ["Roots", "Stem", "Leaves", "Flowers"],
+  "choices": [
+    "Roots",
+    "Stem",
+    "Leaves",
+    "Flowers"
+  ],
   "correctIndex": 2
 }

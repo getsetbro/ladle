@@ -1,0 +1,11 @@
+{
+  "date": "day-239",
+  "question": "Who directed E.T. the Extra-Terrestrial?",
+  "choices": [
+    "George Lucas",
+    "Steven Spielberg",
+    "James Cameron",
+    "Robert Zemeckis"
+  ],
+  "correctIndex": 1
+}

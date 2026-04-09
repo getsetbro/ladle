@@ -1,0 +1,11 @@
+{
+  "date": "day-308",
+  "question": "How many holes are in a standard round of golf?",
+  "choices": [
+    "9",
+    "12",
+    "18",
+    "24"
+  ],
+  "correctIndex": 2
+}

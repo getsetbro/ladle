@@ -1,6 +1,11 @@
 {
-  "date": "day-104",
+  "date": "104",
   "question": "What fictional metal powers much of Wakanda's technology in Black Panther?",
-  "choices": ["Adamantium", "Unobtainium", "Vibranium", "Mithril"],
+  "choices": [
+    "Adamantium",
+    "Unobtainium",
+    "Vibranium",
+    "Mithril"
+  ],
   "correctIndex": 2
 }

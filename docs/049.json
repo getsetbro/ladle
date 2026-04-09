@@ -1,0 +1,11 @@
+{
+  "date": "day-049",
+  "question": "Mount Kilimanjaro is located in which country?",
+  "choices": [
+    "Kenya",
+    "Tanzania",
+    "Uganda",
+    "Ethiopia"
+  ],
+  "correctIndex": 1
+}

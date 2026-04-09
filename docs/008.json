@@ -1,6 +1,11 @@
 {
-  "date": "day-008",
+  "date": "008",
   "question": "Which language is primarily spoken in Brazil?",
-  "choices": ["Spanish", "Portuguese", "French", "Italian"],
+  "choices": [
+    "Spanish",
+    "Portuguese",
+    "French",
+    "Italian"
+  ],
   "correctIndex": 1
 }

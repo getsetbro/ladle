@@ -1,6 +1,11 @@
 {
-  "date": "day-113",
+  "date": "113",
   "question": "Ghostbusters is primarily set in which city?",
-  "choices": ["Chicago", "Los Angeles", "New York City", "Boston"],
+  "choices": [
+    "Chicago",
+    "Los Angeles",
+    "New York City",
+    "Boston"
+  ],
   "correctIndex": 2
 }

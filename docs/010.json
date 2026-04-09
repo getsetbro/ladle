@@ -1,6 +1,11 @@
 {
-  "date": "day-010",
+  "date": "010",
   "question": "Which planet is known as the Red Planet?",
-  "choices": ["Venus", "Mars", "Mercury", "Neptune"],
+  "choices": [
+    "Venus",
+    "Mars",
+    "Mercury",
+    "Neptune"
+  ],
   "correctIndex": 1
 }

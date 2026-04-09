@@ -1,0 +1,11 @@
+{
+  "date": "day-280",
+  "question": "What is the capital city of Canada?",
+  "choices": [
+    "Toronto",
+    "Ottawa",
+    "Vancouver",
+    "Montreal"
+  ],
+  "correctIndex": 1
+}

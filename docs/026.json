@@ -1,6 +1,11 @@
 {
-  "date": "day-026",
+  "date": "026",
   "question": "Who is credited with formulating the laws of motion and universal gravitation?",
-  "choices": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+  "choices": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Galileo Galilei",
+    "Nikola Tesla"
+  ],
   "correctIndex": 1
 }

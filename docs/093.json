@@ -1,0 +1,11 @@
+{
+  "date": "day-093",
+  "question": "Which continent contains the largest land area among these options?",
+  "choices": [
+    "Europe",
+    "Asia",
+    "Australia",
+    "Africa"
+  ],
+  "correctIndex": 1
+}

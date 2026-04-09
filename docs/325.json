@@ -1,0 +1,11 @@
+{
+  "date": "day-325",
+  "question": "Who wrote 1984?",
+  "choices": [
+    "George Orwell",
+    "Aldous Huxley",
+    "Ray Bradbury",
+    "Jules Verne"
+  ],
+  "correctIndex": 0
+}

@@ -1,0 +1,11 @@
+{
+  "date": "day-224",
+  "question": "Which river flows through Egypt?",
+  "choices": [
+    "Amazon",
+    "Yangtze",
+    "Nile",
+    "Danube"
+  ],
+  "correctIndex": 2
+}

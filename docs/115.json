@@ -1,6 +1,11 @@
 {
-  "date": "day-115",
+  "date": "115",
   "question": "What is the name of the cowboy toy in Toy Story?",
-  "choices": ["Buzz", "Jessie", "Woody", "Rex"],
+  "choices": [
+    "Buzz",
+    "Jessie",
+    "Woody",
+    "Rex"
+  ],
   "correctIndex": 2
 }

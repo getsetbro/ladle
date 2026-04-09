@@ -1,6 +1,11 @@
 {
-  "date": "day-132",
+  "date": "132",
   "question": "Which animated film is set in the Pride Lands?",
-  "choices": ["Madagascar", "The Lion King", "The Jungle Book", "Tarzan"],
+  "choices": [
+    "Madagascar",
+    "The Lion King",
+    "The Jungle Book",
+    "Tarzan"
+  ],
   "correctIndex": 1
 }

@@ -1,6 +1,11 @@
 {
-  "date": "day-124",
+  "date": "124",
   "question": "What is the name of the computer in 2001: A Space Odyssey?",
-  "choices": ["Deep Thought", "Skynet", "Mother", "HAL 9000"],
+  "choices": [
+    "Deep Thought",
+    "Skynet",
+    "Mother",
+    "HAL 9000"
+  ],
   "correctIndex": 3
 }

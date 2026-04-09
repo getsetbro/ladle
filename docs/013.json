@@ -1,6 +1,11 @@
 {
-  "date": "day-013",
+  "date": "013",
   "question": "Which country is home to the Great Pyramid of Giza?",
-  "choices": ["Mexico", "Peru", "Egypt", "Jordan"],
+  "choices": [
+    "Mexico",
+    "Peru",
+    "Egypt",
+    "Jordan"
+  ],
   "correctIndex": 2
 }

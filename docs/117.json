@@ -1,6 +1,11 @@
 {
-  "date": "day-117",
+  "date": "117",
   "question": "Who directed Pulp Fiction?",
-  "choices": ["Martin Scorsese", "Quentin Tarantino", "David Fincher", "Paul Thomas Anderson"],
+  "choices": [
+    "Martin Scorsese",
+    "Quentin Tarantino",
+    "David Fincher",
+    "Paul Thomas Anderson"
+  ],
   "correctIndex": 1
 }

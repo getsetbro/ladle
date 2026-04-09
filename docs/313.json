@@ -1,0 +1,11 @@
+{
+  "date": "day-313",
+  "question": "Which protocol is primarily used to load web pages securely?",
+  "choices": [
+    "HTTP",
+    "FTP",
+    "HTTPS",
+    "SMTP"
+  ],
+  "correctIndex": 2
+}

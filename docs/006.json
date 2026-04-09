@@ -1,6 +1,11 @@
 {
-  "date": "day-006",
+  "date": "006",
   "question": "Which ocean is the largest by surface area?",
-  "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+  "choices": [
+    "Atlantic Ocean",
+    "Indian Ocean",
+    "Arctic Ocean",
+    "Pacific Ocean"
+  ],
   "correctIndex": 3
 }

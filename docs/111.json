@@ -1,6 +1,11 @@
 {
-  "date": "day-111",
+  "date": "111",
   "question": "What was Gollum's original name in The Lord of the Rings?",
-  "choices": ["Saruman", "Smeagol", "Theoden", "Faramir"],
+  "choices": [
+    "Saruman",
+    "Smeagol",
+    "Theoden",
+    "Faramir"
+  ],
   "correctIndex": 1
 }

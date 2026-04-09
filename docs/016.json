@@ -1,6 +1,11 @@
 {
-  "date": "day-016",
+  "date": "016",
   "question": "Which blood type is known as the universal donor for red blood cells?",
-  "choices": ["AB positive", "O negative", "A positive", "B negative"],
+  "choices": [
+    "AB positive",
+    "O negative",
+    "A positive",
+    "B negative"
+  ],
   "correctIndex": 1
 }

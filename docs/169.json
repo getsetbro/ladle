@@ -1,0 +1,11 @@
+{
+  "date": "day-169",
+  "question": "Who wrote Pride and Prejudice?",
+  "choices": [
+    "Emily Bronte",
+    "Jane Austen",
+    "Mary Shelley",
+    "Virginia Woolf"
+  ],
+  "correctIndex": 1
+}

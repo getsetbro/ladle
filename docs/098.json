@@ -1,6 +1,11 @@
 {
-  "date": "day-098",
+  "date": "098",
   "question": "Which city is known as the City of Light?",
-  "choices": ["Rome", "Paris", "Barcelona", "Vienna"],
+  "choices": [
+    "Rome",
+    "Paris",
+    "Barcelona",
+    "Vienna"
+  ],
   "correctIndex": 1
 }

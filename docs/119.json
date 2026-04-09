@@ -1,6 +1,11 @@
 {
-  "date": "day-119",
+  "date": "119",
   "question": "Which 1999 sci-fi film is about a simulated reality?",
-  "choices": ["Dark City", "The Matrix", "The Thirteenth Floor", "Gattaca"],
+  "choices": [
+    "Dark City",
+    "The Matrix",
+    "The Thirteenth Floor",
+    "Gattaca"
+  ],
   "correctIndex": 1
 }

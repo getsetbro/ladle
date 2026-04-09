@@ -1,0 +1,11 @@
+{
+  "date": "day-220",
+  "question": "Which country won the FIFA World Cup in 2018?",
+  "choices": [
+    "Brazil",
+    "France",
+    "Germany",
+    "Argentina"
+  ],
+  "correctIndex": 1
+}

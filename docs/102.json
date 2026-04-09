@@ -1,6 +1,11 @@
 {
-  "date": "day-102",
+  "date": "102",
   "question": "Parasite, which won Best Picture in 2020, is from which country?",
-  "choices": ["Japan", "South Korea", "China", "Thailand"],
+  "choices": [
+    "Japan",
+    "South Korea",
+    "China",
+    "Thailand"
+  ],
   "correctIndex": 1
 }

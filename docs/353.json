@@ -1,0 +1,11 @@
+{
+  "date": "day-353",
+  "question": "Which planet is number 2 from the Sun?",
+  "choices": [
+    "Venus",
+    "Mars",
+    "Saturn",
+    "Mercury"
+  ],
+  "correctIndex": 0
+}

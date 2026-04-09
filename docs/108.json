@@ -1,6 +1,11 @@
 {
-  "date": "day-108",
+  "date": "108",
   "question": "In what year was Jurassic Park first released?",
-  "choices": ["1991", "1993", "1995", "1997"],
+  "choices": [
+    "1991",
+    "1993",
+    "1995",
+    "1997"
+  ],
   "correctIndex": 1
 }

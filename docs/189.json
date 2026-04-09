@@ -1,0 +1,11 @@
+{
+  "date": "day-189",
+  "question": "Which is the largest ocean on Earth?",
+  "choices": [
+    "Atlantic",
+    "Indian",
+    "Arctic",
+    "Pacific"
+  ],
+  "correctIndex": 3
+}

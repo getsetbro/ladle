@@ -1,0 +1,11 @@
+{
+  "date": "day-292",
+  "question": "What is the Roman numeral for 500?",
+  "choices": [
+    "L",
+    "X",
+    "D",
+    "V"
+  ],
+  "correctIndex": 2
+}

@@ -1,6 +1,11 @@
 {
-  "date": "day-109",
+  "date": "109",
   "question": "Which Pixar movie is set inside a young girl's emotions?",
-  "choices": ["Soul", "Luca", "Inside Out", "Turning Red"],
+  "choices": [
+    "Soul",
+    "Luca",
+    "Inside Out",
+    "Turning Red"
+  ],
   "correctIndex": 2
 }

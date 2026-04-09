@@ -1,0 +1,11 @@
+{
+  "date": "day-160",
+  "question": "In The Wizard of Oz, what color is the brick road Dorothy follows?",
+  "choices": [
+    "Red",
+    "Blue",
+    "Yellow",
+    "White"
+  ],
+  "correctIndex": 2
+}

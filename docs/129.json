@@ -1,6 +1,11 @@
 {
-  "date": "day-129",
+  "date": "129",
   "question": "Which character is the archaeologist hero with a whip and fedora?",
-  "choices": ["Rick O'Connell", "Nathan Drake", "Indiana Jones", "Allan Quatermain"],
+  "choices": [
+    "Rick O'Connell",
+    "Nathan Drake",
+    "Indiana Jones",
+    "Allan Quatermain"
+  ],
   "correctIndex": 2
 }

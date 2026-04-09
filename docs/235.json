@@ -1,0 +1,11 @@
+{
+  "date": "day-235",
+  "question": "Which film won Best Picture at the Oscars for 1994 (ceremony held in 1995)?",
+  "choices": [
+    "Pulp Fiction",
+    "Forrest Gump",
+    "The Shawshank Redemption",
+    "Four Weddings and a Funeral"
+  ],
+  "correctIndex": 1
+}

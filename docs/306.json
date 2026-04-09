@@ -1,0 +1,11 @@
+{
+  "date": "day-306",
+  "question": "What is 8 + 3?",
+  "choices": [
+    "10",
+    "11",
+    "13",
+    "12"
+  ],
+  "correctIndex": 1
+}

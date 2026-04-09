@@ -1,6 +1,11 @@
 {
-  "date": "day-027",
+  "date": "027",
   "question": "Which country gifted the Statue of Liberty to the United States?",
-  "choices": ["France", "Spain", "United Kingdom", "Italy"],
+  "choices": [
+    "France",
+    "Spain",
+    "United Kingdom",
+    "Italy"
+  ],
   "correctIndex": 0
 }

@@ -1,6 +1,11 @@
 {
-  "date": "day-136",
+  "date": "136",
   "question": "In Interstellar, which space agency leads the mission?",
-  "choices": ["ESA", "Roscosmos", "NASA", "ISRO"],
+  "choices": [
+    "ESA",
+    "Roscosmos",
+    "NASA",
+    "ISRO"
+  ],
   "correctIndex": 2
 }
