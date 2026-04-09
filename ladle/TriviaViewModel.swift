@@ -7,6 +7,7 @@ final class TriviaViewModel: ObservableObject {
     @Published var isLoading = false
     @Published var didAnswerToday = false
     @Published var todaysWasCorrect: Bool?
+    @Published var selectedAnswerIndex: Int?
     @Published var errorMessage: String?
 
     @Published private(set) var totalAnswered = 0
@@ -21,6 +22,7 @@ final class TriviaViewModel: ObservableObject {
         static let totalCorrect = "trivia.totalCorrect"
         static let answeredDate = "trivia.answeredDate"
         static let answeredWasCorrect = "trivia.answeredWasCorrect"
+        static let selectedAnswerIndex = "trivia.selectedAnswerIndex"
     }
 
     init() {
@@ -46,11 +48,6 @@ final class TriviaViewModel: ObservableObject {
     func load() async {
         loadTotals()
         loadTodayState()
-
-        if didAnswerToday {
-            return
-        }
-
         await fetchQuestion()
     }
 
@@ -61,6 +58,7 @@ final class TriviaViewModel: ObservableObject {
         let isCorrect = index == question.correctIndex
         didAnswerToday = true
         todaysWasCorrect = isCorrect
+        selectedAnswerIndex = index
 
         totalAnswered += 1
         if isCorrect {
@@ -70,6 +68,7 @@ final class TriviaViewModel: ObservableObject {
         persistTotals()
         defaults.set(todaysDateString, forKey: Keys.answeredDate)
         defaults.set(isCorrect, forKey: Keys.answeredWasCorrect)
+        defaults.set(index, forKey: Keys.selectedAnswerIndex)
     }
 
     func clearStats() {
@@ -77,6 +76,7 @@ final class TriviaViewModel: ObservableObject {
         totalCorrect = 0
         didAnswerToday = false
         todaysWasCorrect = nil
+        selectedAnswerIndex = nil
         question = nil
         errorMessage = nil
 
@@ -84,6 +84,7 @@ final class TriviaViewModel: ObservableObject {
         defaults.removeObject(forKey: Keys.totalCorrect)
         defaults.removeObject(forKey: Keys.answeredDate)
         defaults.removeObject(forKey: Keys.answeredWasCorrect)
+        defaults.removeObject(forKey: Keys.selectedAnswerIndex)
     }
 
     func retryFetch() async {
@@ -151,9 +152,11 @@ final class TriviaViewModel: ObservableObject {
         if answeredDate == todaysDateString {
             didAnswerToday = true
             todaysWasCorrect = defaults.object(forKey: Keys.answeredWasCorrect) as? Bool
+            selectedAnswerIndex = defaults.object(forKey: Keys.selectedAnswerIndex) as? Int
         } else {
             didAnswerToday = false
             todaysWasCorrect = nil
+            selectedAnswerIndex = nil
         }
     }
 
