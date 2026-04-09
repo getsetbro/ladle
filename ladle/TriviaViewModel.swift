@@ -39,8 +39,8 @@ final class TriviaViewModel: ObservableObject {
     }
 
     var shareText: String {
-        let status = (todaysWasCorrect == true) ? "✅ Correct" : "❌ Incorrect"
-        return "Daily Trivia: \(status) today. Total score: \(scorePercentText) (\(totalCorrect)/\(totalAnswered))."
+        let status = (todaysWasCorrect == true) ? "Correct" : "Incorrect"
+        return "Ladle: \(status) today. Total score: \(scorePercentText) (\(totalCorrect)/\(totalAnswered))."
     }
 
     func load() async {
@@ -93,7 +93,7 @@ final class TriviaViewModel: ObservableObject {
 
     private func fetchQuestion() async {
         guard let url = URL(string: "\(triviaBaseURLString)/\(dayOfYearString).json") else {
-            errorMessage = "Invalid trivia URL. Update the URL in TriviaViewModel."
+            errorMessage = "Invalid URL. Update the URL in TriviaViewModel."
             return
         }
 
@@ -104,7 +104,7 @@ final class TriviaViewModel: ObservableObject {
             let (data, response) = try await URLSession.shared.data(from: url)
             guard let httpResponse = response as? HTTPURLResponse else {
                 question = nil
-                errorMessage = "Unexpected response from the trivia server."
+                errorMessage = "Unexpected response from the server."
                 return
             }
 
@@ -122,11 +122,11 @@ final class TriviaViewModel: ObservableObject {
 
             let decoded = try JSONDecoder().decode(TriviaQuestion.self, from: data)
             guard !decoded.question.isEmpty, decoded.choices.count >= 2 else {
-                errorMessage = "Trivia data is missing required fields."
+                errorMessage = "data is missing required fields."
                 return
             }
             guard decoded.correctIndex >= 0 && decoded.correctIndex < decoded.choices.count else {
-                errorMessage = "Trivia data has an invalid correct answer index."
+                errorMessage = "data has an invalid correct answer index."
                 return
             }
 
